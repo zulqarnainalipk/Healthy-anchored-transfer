@@ -1,0 +1,90 @@
+class,urls,distinct_pages,top_domain,top_domain_share
+apple black rot,173,164,www.360doc.com,0.081
+apple leaf,444,422,xsj.699pic.com,0.095
+apple mosaic virus,181,168,www.reddit.com,0.077
+apple rust,308,281,www.reddit.com,0.091
+apple scab,292,265,www.reddit.com,0.045
+banana leaf,243,237,xsj.699pic.com,0.156
+banana panama disease,216,189,www.sohu.com,0.051
+basil downy mildew,86,79,www.reddit.com,0.244
+basil leaf,589,528,xsj.699pic.com,0.183
+bean halo blight,115,107,www.reddit.com,0.061
+bean leaf,258,248,commons.wikimedia.org,0.039
+bean mosaic virus,125,118,www.reddit.com,0.072
+bean rust,165,154,www.invasive.org,0.073
+bell pepper leaf,240,237,www.veer.com,0.121
+bell pepper leaf spot,117,114,www.reddit.com,0.162
+blueberry leaf,281,252,www.veer.com,0.171
+blueberry rust,117,108,www.reddit.com,0.094
+broccoli downy mildew,65,61,zhidao.baidu.com,0.108
+broccoli leaf,269,250,www.ebay.com.au,0.063
+cabbage alternaria leaf spot,128,121,www.invasive.org,0.078
+cabbage leaf,464,415,xsj.699pic.com,0.315
+carrot cavity spot,74,72,www.bing.com,0.068
+cauliflower alternaria leaf spot,98,93,www.invasive.org,0.133
+cauliflower leaf,195,185,www.veer.com,0.092
+celery anthracnose,44,42,www.reddit.com,0.136
+celery early blight,55,50,www.191.cn,0.073
+celery leaf,212,199,baijiahao.baidu.com,0.042
+cherry leaf,286,242,www.meipian.cn,0.157
+cherry leaf spot,230,218,commons.wikimedia.org,0.087
+cherry powdery mildew,114,112,baijiahao.baidu.com,0.088
+citrus canker,535,442,www.360doc.com,0.069
+citrus greening disease,237,222,www.reddit.com,0.118
+coffee leaf,138,131,xsj.699pic.com,0.145
+coffee leaf rust,190,152,www.researchgate.net,0.058
+corn gray leaf spot,216,189,www.researchgate.net,0.079
+corn leaf,156,153,www.freepik.com,0.083
+corn northern leaf blight,224,188,commons.wikimedia.org,0.062
+corn rust,237,197,baijiahao.baidu.com,0.08
+corn smut,293,249,www.reddit.com,0.075
+cucumber angular leaf spot,251,222,www.360doc.com,0.064
+cucumber bacterial wilt,143,130,www.reddit.com,0.126
+cucumber leaf,348,327,www.ebay.com.au,0.063
+cucumber powdery mildew,236,209,www.sohu.com,0.085
+eggplant cercospora leaf spot,88,81,www.flickr.com,0.136
+eggplant leaf,240,219,www.ebay.com.au,0.113
+garlic leaf,228,218,detail.youzan.com,0.044
+garlic leaf blight,147,141,baijiahao.baidu.com,0.116
+garlic rust,160,140,baijiahao.baidu.com,0.15
+ginger leaf,177,166,zhidao.baidu.com,0.056
+ginger leaf spot,87,75,www.sohu.com,0.092
+ginger sheath blight,87,84,www.360doc.com,0.103
+grape black rot,229,204,www.360doc.com,0.066
+grape downy mildew,395,329,www.agric.wa.gov.au,0.081
+grape leaf,201,194,xsj.699pic.com,0.109
+grape leaf spot,106,104,www.reddit.com,0.066
+grapevine leafroll disease,138,125,en.wikipedia.org,0.051
+lettuce downy mildew,118,116,www.meipian.cn,0.076
+lettuce leaf,244,237,www.freepik.com,0.102
+lettuce mosaic virus,100,95,zhidao.baidu.com,0.06
+maple leaf,316,299,xsj.699pic.com,0.136
+maple tar spot,139,119,commons.wikimedia.org,0.144
+peach leaf,157,148,baike.baidu.com,0.057
+peach leaf curl,235,193,www.reddit.com,0.111
+plum leaf,325,307,baike.baidu.com,0.043
+plum pocket disease,76,75,www.reddit.com,0.132
+potato early blight,227,204,www.researchgate.net,0.093
+potato late blight,240,208,www.researchgate.net,0.062
+potato leaf,249,237,www.veer.com,0.076
+raspberry leaf,180,166,www.veer.com,0.267
+rice blast,148,137,www.researchgate.net,0.108
+rice leaf,252,227,zhidao.baidu.com,0.099
+rice sheath blight,250,216,baijiahao.baidu.com,0.06
+soybean leaf,242,224,www.my478.com,0.062
+squash leaf,410,392,www.reddit.com,0.071
+squash powdery mildew,281,263,www.reddit.com,0.125
+strawberry anthracnose,98,91,www.invasive.org,0.092
+strawberry leaf,199,190,xsj.699pic.com,0.09
+strawberry leaf scorch,76,63,commons.wikimedia.org,0.118
+tobacco leaf,71,68,www.veer.com,0.085
+tobacco mosaic virus,91,84,baijiahao.baidu.com,0.088
+tomato bacterial leaf spot,280,246,www.reddit.com,0.061
+tomato early blight,346,308,www.sohu.com,0.069
+tomato late blight,295,265,www.sohu.com,0.064
+tomato leaf,226,212,www.veer.com,0.164
+tomato leaf mold,239,208,www.360doc.com,0.071
+tomato mosaic virus,189,177,www.reddit.com,0.122
+tomato septoria leaf spot,220,201,www.reddit.com,0.091
+tomato yellow leaf curl virus,171,149,plantix.net,0.07
+zucchini yellow mosaic virus,181,162,plantix.net,0.072

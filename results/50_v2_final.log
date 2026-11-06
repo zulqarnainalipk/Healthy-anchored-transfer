@@ -1,0 +1,15 @@
+[10:13:55] step 1/3: loading source samples
+[10:14:03]   90 groups, 12 crops; world seed 9002
+[10:14:03] step 2/3: running worlds x cells x replicates
+[10:14:52]   world a done (1/10)
+[10:15:45]   world a2 done (2/10)
+[10:16:34]   world b done (3/10)
+[10:17:26]   world b2 done (4/10)
+[10:18:09]   world c25 done (5/10)
+[10:18:51]   world c50 done (6/10)
+[10:19:34]   world c100 done (7/10)
+[10:20:17]   world d done (8/10)
+[10:21:00]   world e done (9/10)
+[10:21:41]   world f done (10/10)
+[10:21:42] step 3/3: summaries
+[10:21:43] done in 468.2 s

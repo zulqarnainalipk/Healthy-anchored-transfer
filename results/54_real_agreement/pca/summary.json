@@ -1,0 +1,15 @@
+{
+  "triples": 108,
+  "failures": 1,
+  "tag": "pca",
+  "auroc_bound": 0.72,
+  "spearman_with_gain_bound": 0.242,
+  "spearman_p_bound": 0.0115,
+  "auroc_ens_disagree": 0.71,
+  "spearman_with_gain_ens_disagree": -0.401,
+  "spearman_p_ens_disagree": 0.0,
+  "auroc_low_conf": 0.664,
+  "spearman_with_gain_low_conf": -0.453,
+  "spearman_p_low_conf": 0.0,
+  "mean_bound": 0.548
+}

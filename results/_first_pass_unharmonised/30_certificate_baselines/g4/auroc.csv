@@ -1,0 +1,5 @@
+world,healthy_n,replicates,failure_rate,auroc_bound,auroc_ens_disagree,auroc_low_conf
+e,50,117,0.1624,0.8679,0.7041,0.6815
+e,200,117,0.1453,0.8568,0.7821,0.7641
+f,50,117,0.8974,0.6385,0.4286,0.2329
+f,200,117,0.5983,0.5003,0.3082,0.1895

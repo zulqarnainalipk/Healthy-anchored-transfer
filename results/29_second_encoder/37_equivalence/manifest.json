@@ -1,0 +1,9 @@
+{
+  "module": "37_equivalence",
+  "margin": 0.02,
+  "primary_cells": 20,
+  "outcome_counts": {
+    "different (HATC worse)": 11,
+    "inconclusive": 9
+  }
+}

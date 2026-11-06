@@ -1,0 +1,30 @@
+{
+  "module": "20_align_baselines",
+  "methods": [
+    "NA",
+    "MC",
+    "STD",
+    "CORAL",
+    "WHITEN",
+    "HATC"
+  ],
+  "worlds": [
+    "a",
+    "a2",
+    "b",
+    "b2",
+    "c25",
+    "c50",
+    "c100",
+    "d",
+    "e",
+    "f"
+  ],
+  "healthy_n": [
+    50,
+    200
+  ],
+  "replicates": 200,
+  "operator_scale": 2.0,
+  "seconds": 224.8
+}

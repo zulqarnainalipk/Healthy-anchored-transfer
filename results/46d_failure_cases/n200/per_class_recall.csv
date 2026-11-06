@@ -1,0 +1,121 @@
+world,method,crop,disease,recall,n
+a,HATC,grape,esca black measles,0.136,250
+a,HATC,soybean,downy mildew,0.144,250
+a,HATC,soybean,bacterial blight,0.276,250
+a,HATC,soybean,frog eye leaf spot,0.336,250
+a,HATC,tomato,early blight,0.425,200
+a,HATC,corn_maize,cercospora leaf spot gray leaf spot,0.428,250
+a,HATC,potato,early blight,0.468,250
+a,HATC,soybean,mosaic,0.472,250
+a,HATC,tomato,mosaic virus,0.475,200
+a,HATC,tomato,septoria leaf spot,0.525,200
+a,HATC,grape,downy mildew,0.532,250
+a,HATC,apple,scab,0.572,250
+a,HATC,tomato,leaf mold,0.585,200
+a,HATC,soybean,bean rust,0.612,250
+a,HATC,grape,leaf spot,0.68,250
+a,HATC,tomato,spider mites two-spotted spider mite,0.745,200
+a,HATC,apple,mosaic virus,0.752,250
+a,HATC,apple,rust,0.752,250
+a,HATC,tomato,target spot,0.785,200
+a,HATC,grape,black rot,0.832,250
+a,HATC,tomato,bacterial spot,0.84,200
+a,HATC,grape,leaf blight isariopsis leaf spot,0.844,250
+a,HATC,tomato,late blight,0.85,200
+a,HATC,corn_maize,northern leaf blight,0.88,250
+a,HATC,potato,late blight,0.944,250
+a,HATC,peach,brown rot,0.98,250
+a,HATC,peach,leaf curl,0.984,250
+a,HATC,corn_maize,common rust,0.988,250
+a,HATC,tomato,yellow leaf curl virus,0.99,200
+a,HATC,peach,bacterial spot,1.0,250
+a,S50,grape,esca black measles,0.0,250
+a,S50,soybean,bacterial blight,0.104,250
+a,S50,soybean,downy mildew,0.2,250
+a,S50,soybean,frog eye leaf spot,0.292,250
+a,S50,tomato,early blight,0.345,200
+a,S50,corn_maize,cercospora leaf spot gray leaf spot,0.484,250
+a,S50,tomato,mosaic virus,0.485,200
+a,S50,grape,leaf spot,0.496,250
+a,S50,soybean,mosaic,0.524,250
+a,S50,tomato,septoria leaf spot,0.525,200
+a,S50,tomato,leaf mold,0.555,200
+a,S50,soybean,bean rust,0.592,250
+a,S50,apple,scab,0.62,250
+a,S50,grape,leaf blight isariopsis leaf spot,0.636,250
+a,S50,apple,mosaic virus,0.752,250
+a,S50,apple,rust,0.752,250
+a,S50,tomato,bacterial spot,0.79,200
+a,S50,tomato,target spot,0.795,200
+a,S50,grape,downy mildew,0.804,250
+a,S50,tomato,spider mites two-spotted spider mite,0.805,200
+a,S50,potato,early blight,0.808,250
+a,S50,corn_maize,northern leaf blight,0.824,250
+a,S50,tomato,late blight,0.85,200
+a,S50,potato,late blight,0.912,250
+a,S50,grape,black rot,0.932,250
+a,S50,tomato,yellow leaf curl virus,0.98,200
+a,S50,peach,brown rot,0.984,250
+a,S50,corn_maize,common rust,1.0,250
+a,S50,peach,bacterial spot,1.0,250
+a,S50,peach,leaf curl,1.0,250
+e,HATC,apple,mosaic virus,0.0,250
+e,HATC,corn_maize,cercospora leaf spot gray leaf spot,0.0,250
+e,HATC,corn_maize,common rust,0.0,250
+e,HATC,grape,esca black measles,0.0,250
+e,HATC,grape,leaf blight isariopsis leaf spot,0.0,250
+e,HATC,soybean,bacterial blight,0.0,250
+e,HATC,soybean,bean rust,0.0,250
+e,HATC,soybean,frog eye leaf spot,0.0,250
+e,HATC,tomato,leaf mold,0.0,200
+e,HATC,tomato,mosaic virus,0.0,200
+e,HATC,tomato,yellow leaf curl virus,0.0,200
+e,HATC,grape,black rot,0.004,250
+e,HATC,tomato,septoria leaf spot,0.005,200
+e,HATC,tomato,spider mites two-spotted spider mite,0.015,200
+e,HATC,potato,early blight,0.016,250
+e,HATC,grape,downy mildew,0.036,250
+e,HATC,tomato,bacterial spot,0.05,200
+e,HATC,apple,scab,0.432,250
+e,HATC,tomato,early blight,0.465,200
+e,HATC,soybean,downy mildew,0.536,250
+e,HATC,grape,leaf spot,0.544,250
+e,HATC,tomato,late blight,0.565,200
+e,HATC,tomato,target spot,0.565,200
+e,HATC,soybean,mosaic,0.64,250
+e,HATC,apple,rust,0.656,250
+e,HATC,peach,brown rot,0.752,250
+e,HATC,peach,leaf curl,0.772,250
+e,HATC,peach,bacterial spot,0.984,250
+e,HATC,potato,late blight,0.988,250
+e,HATC,corn_maize,northern leaf blight,1.0,250
+e,S50,apple,mosaic virus,0.0,250
+e,S50,corn_maize,cercospora leaf spot gray leaf spot,0.0,250
+e,S50,corn_maize,common rust,0.0,250
+e,S50,grape,black rot,0.0,250
+e,S50,grape,esca black measles,0.0,250
+e,S50,grape,leaf blight isariopsis leaf spot,0.0,250
+e,S50,potato,early blight,0.0,250
+e,S50,soybean,bacterial blight,0.0,250
+e,S50,soybean,bean rust,0.0,250
+e,S50,tomato,leaf mold,0.0,200
+e,S50,tomato,mosaic virus,0.0,200
+e,S50,tomato,septoria leaf spot,0.0,200
+e,S50,tomato,yellow leaf curl virus,0.0,200
+e,S50,soybean,frog eye leaf spot,0.004,250
+e,S50,tomato,bacterial spot,0.005,200
+e,S50,tomato,spider mites two-spotted spider mite,0.035,200
+e,S50,tomato,target spot,0.05,200
+e,S50,soybean,downy mildew,0.124,250
+e,S50,grape,downy mildew,0.128,250
+e,S50,apple,scab,0.424,250
+e,S50,tomato,early blight,0.49,200
+e,S50,peach,bacterial spot,0.504,250
+e,S50,peach,leaf curl,0.508,250
+e,S50,tomato,late blight,0.545,200
+e,S50,grape,leaf spot,0.56,250
+e,S50,apple,rust,0.672,250
+e,S50,soybean,mosaic,0.876,250
+e,S50,peach,brown rot,0.94,250
+e,S50,potato,late blight,0.996,250
+e,S50,corn_maize,northern leaf blight,1.0,250

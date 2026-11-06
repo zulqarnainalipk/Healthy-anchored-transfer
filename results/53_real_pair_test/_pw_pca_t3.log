@@ -1,0 +1,18 @@
+[01:58:37] step 1/4: loading features
+[01:58:38]   17328 images
+[01:58:38] step 2/4: units
+[01:58:53]   92 candidate units, 92 pass the count rule
+[01:58:53] step 3/4: running units
+[02:01:31]     10/92 units
+[02:03:13]     20/92 units
+[02:04:36]     30/92 units
+[02:05:59]     40/92 units
+[02:07:26]     50/92 units
+[02:08:51]     60/92 units
+[02:10:38]     70/92 units
+[02:12:10]     80/92 units
+[02:13:35]     90/92 units
+[02:14:01]     92/92 units
+[02:14:01] step 4/4: primary outcome and bootstrap
+[02:14:24] numerical failures (method: replicates with non-finite likelihoods): {}
+[02:14:24] done in 947 s

@@ -1,0 +1,11 @@
+{
+  "crops": 7,
+  "median_gain": 0.198,
+  "max_gain": 0.59,
+  "min_gain": 0.006,
+  "seed": 2026,
+  "min_train": 200,
+  "min_validation": 50,
+  "limit": "no plant IDs; dataset's own train and validation split used",
+  "seconds": 10.9
+}

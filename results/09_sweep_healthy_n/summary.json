@@ -1,0 +1,55 @@
+{
+  "crops": [
+    "apple",
+    "blueberry",
+    "cherry_including_sour",
+    "corn_maize",
+    "pepper_bell",
+    "soybean",
+    "tomato"
+  ],
+  "n_grid": [
+    25,
+    50,
+    100,
+    200,
+    400
+  ],
+  "reps": 5,
+  "seed": 2026,
+  "shrinkage": 0.1,
+  "projection_dimensions": 16,
+  "per_n": {
+    "25": {
+      "pairs": 42,
+      "median_over_pairs": 0.9818,
+      "mean_over_pairs": 1.4321,
+      "relative_to_largest_n": 4.096
+    },
+    "50": {
+      "pairs": 42,
+      "median_over_pairs": 0.5669,
+      "mean_over_pairs": 0.8711,
+      "relative_to_largest_n": 2.365
+    },
+    "100": {
+      "pairs": 42,
+      "median_over_pairs": 0.3802,
+      "mean_over_pairs": 0.5701,
+      "relative_to_largest_n": 1.5861
+    },
+    "200": {
+      "pairs": 42,
+      "median_over_pairs": 0.2461,
+      "mean_over_pairs": 0.3795,
+      "relative_to_largest_n": 1.0267
+    },
+    "400": {
+      "pairs": 42,
+      "median_over_pairs": 0.2397,
+      "mean_over_pairs": 0.4391,
+      "relative_to_largest_n": 1.0
+    }
+  },
+  "seconds": 11.9
+}

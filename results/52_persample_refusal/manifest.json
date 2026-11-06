@@ -1,0 +1,12 @@
+{
+  "module": "52_persample_refusal",
+  "worlds": [
+    "a",
+    "c50",
+    "e",
+    "f"
+  ],
+  "healthy_n": 200,
+  "reps": 100,
+  "seconds": 39.2
+}

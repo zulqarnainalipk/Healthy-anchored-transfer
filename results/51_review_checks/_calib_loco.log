@@ -1,0 +1,20 @@
+[18:36:37] step 1: loading raw training-split features
+[18:36:45]   51358 rows, 40 crops
+[18:36:49]   crops with healthy images 12; usable targets 8: [np.str_('apple'), np.str_('corn_maize'), np.str_('grape'), np.str_('peach'), np.str_('potato'), np.str_('soybean'), np.str_('strawberry'), np.str_('tomato')]
+[18:36:49] step 2: projection loco_lda
+[18:37:33]   loco_lda scale 1.0 done (56 s)
+[18:37:45]   loco_lda scale 1.5 done (68 s)
+[18:37:57]   loco_lda scale 2.0 done (80 s)
+[18:38:09]   loco_lda scale 3.0 done (92 s)
+[18:38:21]   loco_lda scale 4.0 done (104 s)
+[18:38:33]   loco_lda scale 5.0 done (116 s)
+[18:38:44]   loco_lda scale 6.0 done (127 s)
+[18:38:44] step 2: projection loco_pca
+[18:39:25]   loco_pca scale 1.0 done (168 s)
+[18:39:36]   loco_pca scale 1.5 done (180 s)
+[18:39:48]   loco_pca scale 2.0 done (192 s)
+[18:40:01]   loco_pca scale 3.0 done (204 s)
+[18:40:13]   loco_pca scale 4.0 done (216 s)
+[18:40:26]   loco_pca scale 5.0 done (229 s)
+[18:40:39]   loco_pca scale 6.0 done (242 s)
+[18:40:39] done in 242 s, wrote results\51_review_checks\calib\calibrate_loco.csv

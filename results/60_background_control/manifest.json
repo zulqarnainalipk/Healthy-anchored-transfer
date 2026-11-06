@@ -1,0 +1,11 @@
+{
+  "module": "60_background_control",
+  "images": 17328,
+  "unreadable": [],
+  "frame_fraction": 0.125,
+  "values": 20,
+  "mean_auroc_frame": 0.714,
+  "mean_auroc_dinov2": 0.974,
+  "crops": 28,
+  "seconds": 1852.8
+}

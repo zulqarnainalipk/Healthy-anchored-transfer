@@ -1,0 +1,41 @@
+row,path,cosine,max_abs_diff,rel_diff
+565,apple leaf/google_0550.jpg,1.0,0.0018,0.00021
+681,apple mosaic virus/google_0063.jpg,1.0,0.0032,0.00021
+1480,banana leaf/92.jpg,1.0,0.0019,0.00021
+1628,banana panama disease/add_2 (37).jpg,1.0,0.0016,0.0002
+1967,basil leaf/260.jpg,1.0,0.0019,0.00021
+2764,bean mosaic virus/188.jpg,1.0,0.0019,0.00021
+2992,bean rust/google_0086.jpg,1.0,0.0035,0.00021
+3102,bell pepper leaf/260.jpg,1.0,0.0019,0.00021
+3136,bell pepper leaf/5.jpg,1.0,0.0019,0.00021
+4094,cabbage alternaria leaf spot/43.jpg,1.0,0.0018,0.0002
+4581,cabbage leaf/google_0173.jpg,1.0,0.0018,0.00021
+4922,cauliflower leaf/google_0185.jpg,1.0,0.0019,0.0002
+5072,celery leaf/231.jpg,1.0,0.0016,0.0002
+5543,cherry leaf spot/9.jpg,1.0,0.0019,0.0002
+5746,cherry powdery mildew/46.jpg,1.0,0.0019,0.00021
+6772,coffee leaf rust/google_0076.jpg,1.0,0.0019,0.00021
+7273,corn northern leaf blight/88.jpg,1.0,0.0019,0.0002
+7455,corn rust/69.jpg,1.0,0.0018,0.00021
+7493,corn rust/google_0008.jpg,1.0,0.002,0.00021
+7825,corn smut/google_0170.jpg,1.0,0.0026,0.00022
+8288,cucumber bacterial wilt/google_0239.jpg,1.0,0.0018,0.00021
+8945,eggplant leaf/35.jpg,1.0,0.0019,0.00021
+10069,grape black rot/google_0040.jpg,1.0,0.0019,0.00021
+10161,grape black rot/google_0293.jpg,1.0,0.0018,0.00021
+10747,grape leaf spot/142.jpg,1.0,0.0019,0.0002
+11235,lettuce leaf/google_0244.jpg,1.0,0.0019,0.00021
+11267,lettuce leaf/google_0331.jpg,1.0,0.0019,0.0002
+11537,maple leaf/328.jpg,1.0,0.0019,0.0002
+11964,peach leaf/google_0117.jpg,1.0,0.0025,0.00022
+12062,peach leaf curl/google_0045.jpg,1.0,0.0037,0.00021
+12712,potato early blight/google_0131.jpg,1.0,0.0018,0.00021
+12777,potato early blight/google_0313 - Copy (3).jpg,1.0,0.0019,0.00021
+13106,potato leaf/google_0023.jpg,1.0,0.002,0.00021
+13617,rice leaf/185.jpg,1.0,0.0016,0.00021
+13857,rice sheath blight/198.jpg,1.0,0.0018,0.00019
+14030,soybean leaf/102.jpg,1.0,0.002,0.0002
+15033,strawberry leaf/3.jpg,1.0,0.0019,0.00021
+15061,strawberry leaf/58.jpg,1.0,0.0019,0.00022
+15369,tobacco mosaic virus/14.jpg,1.0,0.0017,0.0002
+16562,tomato leaf mold/74.jpg,1.0,0.0017,0.0002

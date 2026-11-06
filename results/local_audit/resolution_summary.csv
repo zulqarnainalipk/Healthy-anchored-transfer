@@ -1,0 +1,7 @@
+dataset,images_with_size,width_min,width_median,width_max,height_min,height_median,height_max,modes
+chili_yellow_leaf,6566,224,224.0,224,224,224.0,224,RGB:6566
+fig_sartak_sfld,10185,512,512,512,512,512,512,RGB:10185
+peach_leaf_damage,182,76,535.0,1953,130,389.0,1191,RGB:182
+plantseg_v6,22916,65,667.0,8256,52,533.5,5504,L:11459; RGB:11457
+plantvillage_color,54306,99,256.0,256,99,256.0,256,RGB:54304; P:1; RGBA:1
+rice_leaf_disease,6712,183,1600.0,4000,178,1600.0,3840,RGB:6711; P:1

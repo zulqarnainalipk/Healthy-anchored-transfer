@@ -1,0 +1,161 @@
+encoder,source,target,disease,mean_part,cov_part,bw_total,gain_HATC_minus_NA,gain_HATC_minus_MC,ba_NA
+dinov2,apple,bean,rust,1.1907,0.6683,1.3654,0.1092,0.0212,0.6616
+dinov2,apple,blueberry,rust,0.7223,0.6171,0.95,-0.0322,-0.1005,0.7965
+dinov2,apple,coffee,rust,1.0932,0.728,1.3134,0.1269,-0.0225,0.7413
+dinov2,apple,corn,rust,2.6456,1.3747,2.9814,0.4154,0.1223,0.5051
+dinov2,apple,garlic,rust,1.6184,1.0412,1.9244,0.3425,0.1731,0.5104
+dinov2,bean,apple,rust,1.1135,0.5037,1.2221,0.0693,0.043,0.6176
+dinov2,bean,blueberry,rust,1.2366,0.6305,1.3881,-0.0104,-0.0037,0.8658
+dinov2,bean,coffee,rust,1.541,0.6306,1.665,0.1454,0.0709,0.7589
+dinov2,bean,corn,rust,2.9742,1.0997,3.171,0.326,0.0981,0.5791
+dinov2,bean,garlic,rust,1.9541,0.8742,2.1407,0.2839,0.1303,0.6309
+dinov2,blueberry,apple,rust,0.6104,0.4451,0.7555,-0.02,-0.0257,0.6828
+dinov2,blueberry,bean,rust,1.1362,0.5655,1.2692,0.0881,0.0073,0.7537
+dinov2,blueberry,coffee,rust,1.0205,0.4012,1.0965,0.1233,0.0178,0.7853
+dinov2,blueberry,corn,rust,2.784,1.0059,2.9601,0.2898,0.1109,0.5845
+dinov2,blueberry,garlic,rust,1.666,0.7443,1.8247,0.2773,0.1182,0.6267
+dinov2,coffee,apple,rust,0.7668,0.4587,0.8935,0.1153,0.0418,0.5734
+dinov2,coffee,bean,rust,1.2776,0.5238,1.3808,0.2409,0.1083,0.6376
+dinov2,coffee,blueberry,rust,0.9224,0.3792,0.9973,0.0952,0.0146,0.769
+dinov2,coffee,corn,rust,2.531,0.8382,2.6662,0.4004,0.112,0.508
+dinov2,coffee,garlic,rust,1.7868,0.6655,1.9067,0.4074,0.2248,0.5108
+dinov2,corn,apple,rust,1.7878,0.6864,1.9151,0.2012,0.1669,0.4986
+dinov2,corn,bean,rust,2.0648,0.6869,2.1761,0.3408,0.3257,0.5192
+dinov2,corn,blueberry,rust,2.118,0.6983,2.2302,0.2772,0.2275,0.5335
+dinov2,corn,coffee,rust,2.14,0.6564,2.2384,0.3636,0.2488,0.5221
+dinov2,corn,garlic,rust,1.416,0.4438,1.4839,0.0581,0.0269,0.8248
+dinov2,garlic,apple,rust,1.2674,0.6913,1.4437,0.1425,0.1198,0.4987
+dinov2,garlic,bean,rust,1.59,0.6895,1.733,0.1996,0.2054,0.5157
+dinov2,garlic,blueberry,rust,1.4712,0.6836,1.6223,0.1178,0.0861,0.5296
+dinov2,garlic,coffee,rust,1.7324,0.643,1.8479,0.189,0.1077,0.514
+dinov2,garlic,corn,rust,1.2433,0.5553,1.3617,0.1721,0.0141,0.7254
+dinov2,apple,bean,mosaic virus,1.1907,0.6683,1.3654,0.0576,0.0478,0.6081
+dinov2,apple,lettuce,mosaic virus,1.917,0.9533,2.141,0.152,0.0596,0.57
+dinov2,apple,tobacco,mosaic virus,1.5647,0.79,1.7528,0.0184,-0.0034,0.5668
+dinov2,apple,tomato,mosaic virus,1.7314,0.8022,1.9082,0.1112,0.0399,0.5798
+dinov2,bean,apple,mosaic virus,1.1135,0.5037,1.2221,0.1206,0.073,0.6245
+dinov2,bean,lettuce,mosaic virus,2.2643,0.7784,2.3944,0.1014,0.0463,0.5824
+dinov2,bean,tobacco,mosaic virus,1.4725,0.5989,1.5896,0.0312,0.0084,0.5803
+dinov2,bean,tomato,mosaic virus,1.3801,0.5552,1.4876,0.0364,-0.0073,0.6105
+dinov2,lettuce,apple,mosaic virus,1.6457,0.6298,1.7621,0.1966,0.1434,0.5375
+dinov2,lettuce,bean,mosaic virus,1.9434,0.6113,2.0372,0.1243,0.0842,0.5238
+dinov2,lettuce,tobacco,mosaic virus,1.3969,0.5335,1.4953,0.0146,-0.0151,0.6124
+dinov2,lettuce,tomato,mosaic virus,2.1884,0.6915,2.2951,0.0621,0.0532,0.5694
+dinov2,tobacco,apple,mosaic virus,1.3017,0.5863,1.4276,0.1266,0.0752,0.5595
+dinov2,tobacco,bean,mosaic virus,1.3311,0.5387,1.436,0.0764,0.0545,0.5608
+dinov2,tobacco,lettuce,mosaic virus,1.4384,0.5925,1.5556,0.0205,-0.0156,0.6321
+dinov2,tobacco,tomato,mosaic virus,1.5895,0.6108,1.7028,0.0141,-0.0058,0.5834
+dinov2,tomato,apple,mosaic virus,1.5336,0.5691,1.6358,0.1563,0.0845,0.6014
+dinov2,tomato,bean,mosaic virus,1.3434,0.48,1.4266,0.0555,0.0274,0.5991
+dinov2,tomato,lettuce,mosaic virus,2.2208,0.7329,2.3386,0.1257,0.0434,0.5989
+dinov2,tomato,tobacco,mosaic virus,1.6565,0.6002,1.7618,-0.0088,0.0079,0.594
+dinov2,cherry,cucumber,powdery mildew,2.0969,0.6848,2.2058,0.113,0.0297,0.6183
+dinov2,cherry,squash,powdery mildew,2.3148,0.7672,2.4387,0.0781,0.0312,0.6703
+dinov2,cucumber,cherry,powdery mildew,1.9532,0.6265,2.0512,0.1313,0.1015,0.645
+dinov2,cucumber,squash,powdery mildew,0.8674,0.3423,0.9325,0.0321,0.0042,0.81
+dinov2,squash,cherry,powdery mildew,2.0296,0.6571,2.1333,0.204,0.1329,0.7147
+dinov2,squash,cucumber,powdery mildew,0.8485,0.3193,0.9066,0.0198,-0.0014,0.8418
+dinov2,basil,broccoli,downy mildew,2.9995,0.6063,3.0601,0.185,0.1332,0.7112
+dinov2,basil,grape,downy mildew,2.4102,0.5537,2.473,0.3078,0.1702,0.5807
+dinov2,basil,lettuce,downy mildew,2.3259,0.4789,2.3747,0.2021,0.0557,0.7242
+dinov2,broccoli,basil,downy mildew,2.9078,0.7108,2.9935,0.1262,0.0372,0.6807
+dinov2,broccoli,grape,downy mildew,2.3618,0.6436,2.448,0.1904,0.1121,0.6083
+dinov2,broccoli,lettuce,downy mildew,1.2622,0.4429,1.3376,0.0402,0.0016,0.842
+dinov2,grape,basil,downy mildew,2.7022,0.6947,2.7901,0.2209,0.0173,0.6052
+dinov2,grape,broccoli,downy mildew,2.7212,0.741,2.8203,0.1693,0.0532,0.695
+dinov2,grape,lettuce,downy mildew,2.3856,0.6773,2.4799,0.1719,0.0405,0.7174
+dinov2,lettuce,basil,downy mildew,2.4399,0.5821,2.5084,0.154,0.0214,0.6537
+dinov2,lettuce,broccoli,downy mildew,1.3217,0.4711,1.4031,0.0086,-0.014,0.8763
+dinov2,lettuce,grape,downy mildew,2.2821,0.6373,2.3694,0.1896,0.1074,0.6406
+dinov2,celery,potato,early blight,1.5708,0.6316,1.693,0.2968,0.1514,0.6218
+dinov2,celery,tomato,early blight,1.7029,0.5844,1.8004,0.1115,0.1009,0.7301
+dinov2,potato,celery,early blight,2.2591,1.0957,2.5108,0.2009,0.0925,0.7586
+dinov2,tomato,celery,early blight,1.8838,0.7991,2.0463,0.1868,0.0743,0.7668
+dinov2,apple,grape,black rot,1.5664,0.6987,1.7151,-0.0876,-0.0618,0.8071
+dinov2,grape,apple,black rot,1.3277,0.4722,1.4092,0.139,0.1759,0.625
+dinov2,celery,strawberry,anthracnose,1.3874,0.4126,1.4475,0.0877,0.1086,0.5808
+dinov2,strawberry,celery,anthracnose,1.667,0.4633,1.7302,0.1705,0.0098,0.6261
+dinov2,ginger,rice,sheath blight,1.5221,1.0748,1.8634,-0.1144,0.1137,0.799
+dinov2,rice,ginger,sheath blight,1.5827,0.5771,1.6846,0.0279,0.2704,0.7773
+dinov2,cabbage,cauliflower,alternaria leaf spot,1.0578,0.5481,1.1914,0.008,0.0228,0.8419
+dinov2,cauliflower,cabbage,alternaria leaf spot,1.066,0.4471,1.1559,-0.0041,-0.0007,0.9044
+bioclip,apple,bean,rust,0.9796,0.5914,1.1442,0.0014,-0.0132,0.8806
+bioclip,apple,blueberry,rust,0.5578,0.532,0.7708,-0.0026,-0.0127,0.8732
+bioclip,apple,coffee,rust,0.9952,0.7234,1.2304,0.014,-0.0018,0.9107
+bioclip,apple,corn,rust,1.762,0.9524,2.0029,0.1478,0.0153,0.7924
+bioclip,apple,garlic,rust,1.2382,0.7969,1.4725,0.1644,0.0027,0.7381
+bioclip,bean,apple,rust,0.8481,0.4499,0.96,0.0044,0.0024,0.7148
+bioclip,bean,blueberry,rust,1.089,0.4654,1.1843,0.0055,0.0038,0.8915
+bioclip,bean,coffee,rust,1.205,0.4729,1.2945,0.0419,0.0209,0.8975
+bioclip,bean,corn,rust,1.5358,0.6366,1.6625,0.084,0.0153,0.8576
+bioclip,bean,garlic,rust,1.2296,0.5054,1.3294,0.0813,0.0229,0.8204
+bioclip,blueberry,apple,rust,0.5727,0.4004,0.6987,-0.0458,-0.0172,0.7826
+bioclip,blueberry,bean,rust,1.1049,0.4549,1.1949,0.0048,0.0206,0.9119
+bioclip,blueberry,coffee,rust,1.2962,0.54,1.4042,0.0241,0.0017,0.9017
+bioclip,blueberry,corn,rust,2.0631,0.7177,2.1844,0.0674,0.0174,0.8727
+bioclip,blueberry,garlic,rust,1.3829,0.5671,1.4947,0.0806,0.025,0.829
+bioclip,coffee,apple,rust,0.7148,0.4597,0.8498,0.0613,-0.0116,0.6948
+bioclip,coffee,bean,rust,1.0085,0.3791,1.0774,0.0485,0.0286,0.8602
+bioclip,coffee,blueberry,rust,1.0389,0.4268,1.1232,0.0574,0.0467,0.845
+bioclip,coffee,corn,rust,1.6498,0.5032,1.7248,0.1103,0.0093,0.8328
+bioclip,coffee,garlic,rust,1.4034,0.4313,1.4682,0.1543,0.0034,0.7662
+bioclip,corn,apple,rust,1.2379,0.5208,1.343,0.2218,0.0767,0.5346
+bioclip,corn,bean,rust,1.2178,0.4347,1.293,0.2434,0.0706,0.6845
+bioclip,corn,blueberry,rust,1.5619,0.5018,1.6405,0.1928,0.0668,0.7143
+bioclip,corn,coffee,rust,1.5489,0.4452,1.6117,0.1355,-0.0054,0.7974
+bioclip,corn,garlic,rust,0.8094,0.3417,0.8786,0.0151,0.0007,0.9092
+bioclip,garlic,apple,rust,0.9447,0.5103,1.0737,0.2135,0.0774,0.5426
+bioclip,garlic,bean,rust,1.0435,0.3998,1.1175,0.2444,0.0898,0.6638
+bioclip,garlic,blueberry,rust,1.1662,0.4598,1.2536,0.1803,0.0711,0.7027
+bioclip,garlic,coffee,rust,1.414,0.4372,1.4801,0.1755,0.0228,0.7681
+bioclip,garlic,corn,rust,0.775,0.4066,0.8752,0.0275,0.0085,0.9224
+bioclip,apple,bean,mosaic virus,0.9796,0.5914,1.1442,0.0012,0.045,0.7217
+bioclip,apple,lettuce,mosaic virus,1.5236,0.8055,1.7235,0.0882,-0.0148,0.5944
+bioclip,apple,tobacco,mosaic virus,1.1446,0.685,1.3339,0.0299,0.0253,0.6083
+bioclip,apple,tomato,mosaic virus,1.1628,0.57,1.295,-0.0111,-0.0371,0.701
+bioclip,bean,apple,mosaic virus,0.8481,0.4499,0.96,0.0013,0.0274,0.7892
+bioclip,bean,lettuce,mosaic virus,1.7586,0.5343,1.838,-0.0026,-0.0545,0.6779
+bioclip,bean,tobacco,mosaic virus,0.8977,0.3919,0.9795,0.0653,0.022,0.6254
+bioclip,bean,tomato,mosaic virus,0.9714,0.5238,1.1036,0.0071,0.0239,0.7602
+bioclip,lettuce,apple,mosaic virus,1.1999,0.4984,1.2993,0.2234,0.1004,0.5954
+bioclip,lettuce,bean,mosaic virus,1.5132,0.4164,1.5694,0.0593,0.0009,0.6392
+bioclip,lettuce,tobacco,mosaic virus,1.0969,0.3938,1.1655,-0.0215,-0.0164,0.6887
+bioclip,lettuce,tomato,mosaic virus,1.2652,0.5065,1.3629,0.0227,0.0787,0.7281
+bioclip,tobacco,apple,mosaic virus,1.0088,0.5248,1.1371,0.1178,0.0913,0.6475
+bioclip,tobacco,bean,mosaic virus,0.8742,0.372,0.9501,-0.0065,-0.0146,0.7175
+bioclip,tobacco,lettuce,mosaic virus,1.2427,0.4763,1.3308,-0.0842,-0.1116,0.7586
+bioclip,tobacco,tomato,mosaic virus,1.0064,0.5308,1.1378,-0.0472,-0.0306,0.7649
+bioclip,tomato,apple,mosaic virus,1.271,0.4416,1.3455,0.0524,0.0301,0.7664
+bioclip,tomato,bean,mosaic virus,1.2421,0.5342,1.3521,0.0034,0.0366,0.769
+bioclip,tomato,lettuce,mosaic virus,1.6925,0.6855,1.8261,0.0821,0.0355,0.7091
+bioclip,tomato,tobacco,mosaic virus,1.2584,0.5781,1.3849,0.0748,0.0018,0.6328
+bioclip,cherry,cucumber,powdery mildew,1.6504,0.4801,1.7188,0.051,0.0296,0.7309
+bioclip,cherry,squash,powdery mildew,1.7499,0.4715,1.8123,-0.0163,0.0085,0.6746
+bioclip,cucumber,cherry,powdery mildew,1.5912,0.4221,1.6463,0.0926,0.0687,0.7346
+bioclip,cucumber,squash,powdery mildew,0.6103,0.2643,0.6651,-0.03,-0.0134,0.7558
+bioclip,squash,cherry,powdery mildew,1.6885,0.4084,1.7372,-0.0057,0.0786,0.8038
+bioclip,squash,cucumber,powdery mildew,0.5746,0.2591,0.6304,-0.0169,-0.0138,0.8454
+bioclip,basil,broccoli,downy mildew,1.7729,0.4661,1.8332,0.1116,0.1052,0.7688
+bioclip,basil,grape,downy mildew,1.7032,0.4057,1.7509,0.2415,0.0308,0.5962
+bioclip,basil,lettuce,downy mildew,1.4808,0.3414,1.5196,0.116,0.0257,0.8091
+bioclip,broccoli,basil,downy mildew,2.1379,0.6172,2.2252,0.0069,-0.0513,0.7488
+bioclip,broccoli,grape,downy mildew,1.953,0.5917,2.0406,0.0355,0.0134,0.8031
+bioclip,broccoli,lettuce,downy mildew,1.2665,0.4621,1.3482,-0.0664,-0.0372,0.9059
+bioclip,grape,basil,downy mildew,1.9678,0.5455,2.042,0.0978,0.0182,0.7473
+bioclip,grape,broccoli,downy mildew,1.8667,0.5745,1.9531,0.1189,0.0523,0.7219
+bioclip,grape,lettuce,downy mildew,1.7962,0.5947,1.892,0.0875,0.0418,0.8035
+bioclip,lettuce,basil,downy mildew,1.4814,0.3526,1.5228,0.0571,0.0022,0.7822
+bioclip,lettuce,broccoli,downy mildew,1.0027,0.3634,1.0665,-0.032,0.0069,0.9128
+bioclip,lettuce,grape,downy mildew,1.5873,0.4953,1.6628,0.0484,0.0681,0.8382
+bioclip,celery,potato,early blight,1.2222,0.4843,1.3146,0.1484,0.0545,0.7389
+bioclip,celery,tomato,early blight,1.2415,0.4986,1.3379,0.1151,0.1151,0.7274
+bioclip,potato,celery,early blight,1.5135,0.7089,1.6713,0.0826,0.0045,0.8302
+bioclip,tomato,celery,early blight,1.7063,0.7168,1.8508,0.1029,0.0099,0.8172
+bioclip,apple,grape,black rot,1.2427,0.6534,1.404,-0.2343,-0.1264,0.8698
+bioclip,grape,apple,black rot,1.0892,0.4773,1.1892,-0.1269,-0.0113,0.7774
+bioclip,celery,strawberry,anthracnose,1.1283,0.3504,1.1815,0.2277,0.1479,0.5764
+bioclip,strawberry,celery,anthracnose,1.4018,0.3992,1.4575,0.1566,0.0316,0.6305
+bioclip,ginger,rice,sheath blight,1.2106,0.541,1.326,-0.209,0.0166,0.7411
+bioclip,rice,ginger,sheath blight,1.2404,0.4039,1.3045,-0.1275,0.1788,0.8076
+bioclip,cabbage,cauliflower,alternaria leaf spot,0.6396,0.3301,0.7198,-0.047,-0.0166,0.8689
+bioclip,cauliflower,cabbage,alternaria leaf spot,0.6505,0.3321,0.7303,-0.0232,0.007,0.9354

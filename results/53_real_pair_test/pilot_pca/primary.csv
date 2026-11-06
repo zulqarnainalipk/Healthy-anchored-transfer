@@ -1,0 +1,9 @@
+tier,contrast,units,target_crops,source_crops,mean_diff,ci90_low,ci90_high,outcome,status
+1,HATC minus STD,2,2,2,0.0133,-0.037,0.0636,inconclusive,exploratory (fewer than 8 clusters)
+1,CORAL minus STD,2,2,2,0.0216,-0.0196,0.0628,inconclusive,exploratory (fewer than 8 clusters)
+1,S25 minus STD,2,2,2,-0.007,-0.0355,0.0216,inconclusive,exploratory (fewer than 8 clusters)
+1,S50 minus STD,2,2,2,0.0026,-0.0414,0.0467,inconclusive,exploratory (fewer than 8 clusters)
+1,S75 minus STD,2,2,2,0.0081,-0.0429,0.0591,inconclusive,exploratory (fewer than 8 clusters)
+1,probe5 minus STD,2,2,2,0.0931,0.0902,0.096,different,exploratory (fewer than 8 clusters)
+1,probe10 minus STD,2,2,2,0.1388,0.1358,0.1418,different,exploratory (fewer than 8 clusters)
+1,probe25 minus STD,2,2,2,0.1754,0.1727,0.1781,different,exploratory (fewer than 8 clusters)

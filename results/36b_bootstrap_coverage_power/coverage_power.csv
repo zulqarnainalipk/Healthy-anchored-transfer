@@ -1,0 +1,6 @@
+clusters,coverage_90_delta0,coverage_90_delta_minus3pts,power_different_at_3pts,power_equivalent_at_0_margin_2pts
+7,0.826,0.817,0.32,0.001
+8,0.845,0.833,0.311,0.001
+12,0.85,0.846,0.376,0.001
+25,0.885,0.871,0.552,0.002
+50,0.887,0.877,0.78,0.035

@@ -1,0 +1,12 @@
+# Environment for every CPU module: data_prep, data_audit_code, analysis, and features/ except the encoder
+# extraction scripts. Versions are those installed on the machine that produced the results (Python 3.12.10, Windows 10).
+# Install:  python -m pip install -r requirements.txt
+# These five packages cover every import of the CPU scripts (numpy, scipy, sklearn, matplotlib, PIL).
+# Scripts that also need torch / transformers / open_clip (features/05, 06, 09_features_plantwild and
+# analysis/57_feature_spotcheck.py) are covered by requirements-gpu.txt.
+# Chrome (or Chromium) is needed only to rebuild figures/fig4_pipeline/ (build_pipeline.py; set CHROME_PATH).
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+pillow==12.3.0

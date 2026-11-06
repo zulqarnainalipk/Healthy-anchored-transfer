@@ -1,0 +1,72 @@
+# ---------------------------------------------------------------
+# Large-file and privacy policy (see docs/README.md and the review report)
+# Stays in the repository: code, docs, small result tables, manifests, figures.
+# Excluded: cached feature arrays, per-image index copies, error logs, raw remote logs, third-party metadata.
+# The excluded feature files are published as a release / archive with SHA-256 checksums
+# (the checksums are kept in the manifest.json files that stay in the repository).
+# ---------------------------------------------------------------
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Datasets must never be committed (they live outside the repository)
+data/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Cached features: 14 .npy files, 404 MB in total (DINOv2, BioCLIP, PlantWild); one file is 159 MB (GitHub rejects files over 100 MB)
+*.npy
+# Per-image feature index copies (12-13 MB each; rebuilt by data_prep/05a_build_feature_index.py)
+results/05_features_dinov2/feature_index.csv
+results/05_features_dinov2/remote/features_dinov2/features_index.csv
+results/06_features_bioclip/remote/features_bioclip/features_index.csv
+
+# Raw logs of the remote GPU runs (JSON event streams that contain environment paths)
+results/**/remote/*.log
+results/code_audit_result/plant-data-audit.log
+# Local audit stdout log: first line holds the absolute path of the local data folder
+results/local_audit/audit.log
+
+# Error / warning streams (contain absolute local paths and thousands of repeated warnings)
+*.err
+*.err.log
+
+# Run logs written next to the results at the top of results/ (stdout logs are kept: they document each run)
+results/_rerun_*.log
+results/_rerun_*.err
+
+# Twelve third-party web photographs from PlantWild (CC BY-NC-ND 4.0) kept by the audit script; not redistributed
+results/plantwild_audit/samples/
+
+# Third-party metadata copy (PlantSeg v6 Metadata.csv): fetch it from the dataset record instead,
+# see docs/data_sources.md. Remove this line only if the licence check allows redistribution.
+reference/
+
+# Secrets and local configuration (none are used by the code; kept out as a precaution)
+.env
+.env.*
+*.pem
+*.key
+.claude/
+
+# Temporary and local files
+_patch*.py
+_apply*.py
+*.tmp
+*.bak
+*~

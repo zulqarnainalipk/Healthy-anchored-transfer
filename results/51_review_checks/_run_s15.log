@@ -1,0 +1,6 @@
+[18:42:13] step 1: loading raw training-split features
+[18:42:23]   51358 rows, 40 crops
+[18:42:28]   crops with healthy images 12; usable targets 8: [np.str_('apple'), np.str_('corn_maize'), np.str_('grape'), np.str_('peach'), np.str_('potato'), np.str_('soybean'), np.str_('strawberry'), np.str_('tomato')]
+[18:42:28] step 2: projection loco_lda
+[19:08:50]   loco_lda scale 1.5 done (1598 s)
+[19:08:51] done in 1598 s, wrote results\51_review_checks\run\run_scale1.5.csv

@@ -1,0 +1,8 @@
+{
+  "rows": 17328,
+  "missing_files": 0,
+  "class_differs_from_folder": 0,
+  "sampled": 40,
+  "min_cosine": 1.0,
+  "max_rel_diff": 0.00022
+}

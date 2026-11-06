@@ -1,0 +1,25 @@
+[09:15:18] step 1/3: reading replicate accuracies
+[09:15:19]   20 cells
+[09:15:19] step 2/3: cluster bootstrap per cell and baseline
+[09:15:33]   a n=50: 7 clusters, best simple STD
+[09:15:48]   a n=200: 7 clusters, best simple STD
+[09:16:02]   a2 n=50: 7 clusters, best simple MC
+[09:16:17]   a2 n=200: 7 clusters, best simple MC
+[09:16:31]   b n=50: 7 clusters, best simple STD
+[09:16:46]   b n=200: 7 clusters, best simple STD
+[09:17:01]   b2 n=50: 7 clusters, best simple NA
+[09:17:17]   b2 n=200: 7 clusters, best simple NA
+[09:17:31]   c100 n=50: 7 clusters, best simple STD
+[09:17:44]   c100 n=200: 7 clusters, best simple STD
+[09:17:57]   c25 n=50: 7 clusters, best simple STD
+[09:18:11]   c25 n=200: 7 clusters, best simple STD
+[09:18:23]   c50 n=50: 7 clusters, best simple STD
+[09:18:36]   c50 n=200: 7 clusters, best simple STD
+[09:18:48]   d n=50: 7 clusters, best simple MC
+[09:19:01]   d n=200: 7 clusters, best simple MC
+[09:19:14]   e n=50: 7 clusters, best simple STD
+[09:19:26]   e n=200: 7 clusters, best simple STD
+[09:19:39]   f n=50: 7 clusters, best simple MC
+[09:19:51]   f n=200: 7 clusters, best simple MC
+[09:19:51] step 3/3: writing intervals
+[09:19:51] done in 273.1 s

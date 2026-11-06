@@ -1,0 +1,6 @@
+{
+  "module": "61_calibration_decision_rule",
+  "reps": 5,
+  "platt_labels_per_class": 10,
+  "seconds": 437.4
+}

@@ -1,0 +1,4 @@
+test_set,leaves,answer,disease_route,wrong_crop_route,disease_class_correct_given_disease_route,baseline_single_abstain_share
+"diseased leaves, enrolled crops",2858,0.0224,0.9346,0.043,0.8237,0.9776
+"healthy leaves, enrolled crops",1119,0.9857,0.0,0.0143,,0.0143
+leaves of unenrolled crops,444,0.7613,0.0225,0.2162,,0.2387

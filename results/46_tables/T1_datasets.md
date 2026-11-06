@@ -1,0 +1,8 @@
+| dataset | images | GB | augmented-path images |
+|---|---|---|---|
+| chili_yellow_leaf | 6566 | 0.16 | 0 |
+| fig_sartak_sfld | 10185 | 4.172 | 8148 |
+| peach_leaf_damage | 182 | 0.01 | 0 |
+| plantseg_v6 | 22916 | 1.778 | 0 |
+| plantvillage_color | 54306 | 0.905 | 0 |
+| rice_leaf_disease | 6712 | 2.143 | 0 |

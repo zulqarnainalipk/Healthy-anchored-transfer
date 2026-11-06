@@ -1,0 +1,18 @@
+[02:09:23] step 1/4: loading features
+[02:09:24]   dropped 1864 images listed in results\58_strict_duplicates\extra_exclude.csv
+[02:09:24]   15464 images
+[02:09:24] step 2/4: units
+[02:09:38]   94 candidate units, 84 pass the count rule
+[02:09:38] step 3/4: running units
+[02:11:43]     10/84 units
+[02:13:09]     20/84 units
+[02:14:34]     30/84 units
+[02:16:08]     40/84 units
+[02:17:37]     50/84 units
+[02:19:21]     60/84 units
+[02:20:40]     70/84 units
+[02:21:59]     80/84 units
+[02:22:43]     84/84 units
+[02:22:44] step 4/4: primary outcome and bootstrap
+[02:23:26] numerical failures (method: replicates with non-finite likelihoods): {}
+[02:23:26] done in 843 s

@@ -1,0 +1,13 @@
+# Extra packages for the encoder scripts and the one check that recomputes features:
+#   features/05_features_dinov2.py, features/06_features_bioclip.py (run once; cached outputs are what every later module reads),
+#   features/09_features_plantwild.py (DINOv2 and BioCLIP on PlantWild; 1 to 2 hours),
+#   analysis/57_feature_spotcheck.py (recomputes 40 DINOv2 vectors; needs torch and transformers).
+# Install:  python -m pip install -r requirements-gpu.txt   (includes requirements.txt)
+# Recorded versions: open_clip_torch 3.3.0 (stored in results/06_features_bioclip/.../manifest.json).
+# The torch and transformers versions of the original feature run were NOT recorded; the pins below are the
+# versions installed locally (a CPU build of torch) and are a best guess, not a record. Pin the encoder revision when
+# re-running (module 05 stored "unknown" as the DINOv2 revision; modules 09 and 57 pin f9e44c81...).
+-r requirements.txt
+torch==2.14.1
+transformers==5.19.0
+open_clip_torch==3.3.0

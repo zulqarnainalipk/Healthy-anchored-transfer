@@ -1,0 +1,9 @@
+[10:44:45] step 1/3: loading source samples, projection results\08_projection\projection_k8.npz
+[10:44:55]   90 groups, 12 crops, 8 dimensions
+[10:44:55] step 2/3: running worlds x healthy sizes x replicates
+[10:45:07]   world a done (1/4)
+[10:45:19]   world c50 done (2/4)
+[10:45:32]   world e done (3/4)
+[10:45:46]   world f done (4/4)
+[10:45:46] step 3/3: writing summary
+[10:45:46] done in 61.3 s

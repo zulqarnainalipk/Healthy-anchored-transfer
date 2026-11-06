@@ -1,0 +1,17 @@
+{
+  "module": "50_hatc_select",
+  "tag": "fresh",
+  "world_seed": 9001,
+  "operator_scale": 2.0,
+  "candidates": [
+    "NA",
+    "MC",
+    "STD",
+    "CORAL",
+    "HATC",
+    "S50"
+  ],
+  "replicates": 200,
+  "seconds": 311.4,
+  "status": "post-hoc, exploratory extension; registered method is HATC"
+}

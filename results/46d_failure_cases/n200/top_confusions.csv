@@ -1,0 +1,41 @@
+world,method,crop,true,predicted,count
+a,HATC,grape,esca black measles,black rot,216
+a,HATC,corn_maize,cercospora leaf spot gray leaf spot,northern leaf blight,143
+a,HATC,soybean,downy mildew,bean rust,135
+a,HATC,potato,early blight,late blight,133
+a,HATC,soybean,bacterial blight,bean rust,118
+a,HATC,grape,downy mildew,leaf spot,104
+a,HATC,soybean,mosaic,bean rust,92
+a,HATC,grape,leaf spot,downy mildew,78
+a,HATC,soybean,frog eye leaf spot,bean rust,78
+a,HATC,apple,scab,rust,76
+a,S50,grape,esca black measles,black rot,250
+a,S50,soybean,bacterial blight,bean rust,144
+a,S50,corn_maize,cercospora leaf spot gray leaf spot,northern leaf blight,129
+a,S50,soybean,downy mildew,bean rust,129
+a,S50,soybean,mosaic,bean rust,112
+a,S50,grape,leaf spot,downy mildew,107
+a,S50,soybean,frog eye leaf spot,bean rust,101
+a,S50,grape,leaf blight isariopsis leaf spot,leaf spot,91
+a,S50,tomato,mosaic virus,spider mites two-spotted spider mite,75
+a,S50,soybean,bean rust,mosaic,73
+e,HATC,corn_maize,cercospora leaf spot gray leaf spot,northern leaf blight,250
+e,HATC,corn_maize,common rust,northern leaf blight,250
+e,HATC,grape,esca black measles,leaf spot,250
+e,HATC,grape,leaf blight isariopsis leaf spot,black rot,250
+e,HATC,grape,black rot,leaf spot,249
+e,HATC,potato,early blight,late blight,246
+e,HATC,grape,downy mildew,leaf spot,213
+e,HATC,apple,mosaic virus,scab,206
+e,HATC,tomato,yellow leaf curl virus,early blight,199
+e,HATC,tomato,mosaic virus,early blight,178
+e,S50,corn_maize,cercospora leaf spot gray leaf spot,northern leaf blight,250
+e,S50,corn_maize,common rust,northern leaf blight,250
+e,S50,grape,leaf blight isariopsis leaf spot,black rot,250
+e,S50,potato,early blight,late blight,250
+e,S50,grape,esca black measles,leaf spot,242
+e,S50,grape,black rot,leaf spot,235
+e,S50,soybean,downy mildew,mosaic,219
+e,S50,apple,mosaic virus,scab,211
+e,S50,soybean,frog eye leaf spot,mosaic,209
+e,S50,grape,downy mildew,leaf spot,205

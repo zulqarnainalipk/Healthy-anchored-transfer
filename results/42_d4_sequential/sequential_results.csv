@@ -1,0 +1,5 @@
+world,runs,pass_rate,refusal_rate,mean_captures_to_decision
+a,35,0.1143,0.8857,187.1
+b2,35,0.0857,0.9143,187.1
+e,35,0.0571,0.9429,191.4
+f,35,0.1429,0.8571,186.4

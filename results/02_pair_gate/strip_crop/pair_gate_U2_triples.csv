@@ -1,0 +1,11 @@
+target_crop,disease,source_crop,qualifies_U1
+fig,anthracnose,banana,1
+fig,anthracnose,blueberry,1
+fig,anthracnose,celery,1
+fig,anthracnose,peach,1
+fig,anthracnose,strawberry,1
+fig,cercospora leaf spot,eggplant,0
+fig,mosaic,soybean,0
+rice,brown spot,soybean,1
+rice,brown spot,tobacco,1
+rice,sheath blight,ginger,0

@@ -1,0 +1,13 @@
+tier,contrast,units,target_crops,source_crops,mean_diff,ci90_low,ci90_high,outcome,status
+2,HATC minus MC,80,22,22,0.0212,0.0049,0.0392,inconclusive,ok
+2,EIG minus MC,80,22,22,-0.155,-0.1895,-0.1227,different,ok
+2,UDA_CORAL minus MC,80,22,22,0.0697,0.0448,0.097,different,ok
+2,UDA_BW minus MC,80,22,22,0.0707,0.0458,0.098,different,ok
+2,CORAL minus MC,80,22,22,0.0227,0.0069,0.0399,inconclusive,ok
+2,S25 minus MC,80,22,22,0.0174,0.0113,0.0244,inconclusive,ok
+2,S50 minus MC,80,22,22,0.0263,0.017,0.0371,inconclusive,ok
+2,S75 minus MC,80,22,22,0.0282,0.0166,0.0423,inconclusive,ok
+2,OC minus MC,80,22,22,-0.0056,-0.0266,0.0209,inconclusive,ok
+2,probe5 minus MC,80,22,22,0.0362,0.0148,0.0638,inconclusive,ok
+2,probe10 minus MC,80,22,22,0.0638,0.0401,0.0926,different,ok
+2,probe25 minus MC,63,16,18,0.0931,0.0648,0.123,different,ok

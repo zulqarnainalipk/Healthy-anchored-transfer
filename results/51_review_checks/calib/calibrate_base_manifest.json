@@ -1,0 +1,27 @@
+{
+  "module": "51_loco_projection",
+  "mode": "calibrate",
+  "projections": [
+    "base"
+  ],
+  "scales": [
+    1.0,
+    1.5,
+    2.0,
+    3.0,
+    4.0
+  ],
+  "healthy_n": 200,
+  "reps_per_crop": 10,
+  "usable_crops": [
+    "apple",
+    "corn_maize",
+    "grape",
+    "peach",
+    "potato",
+    "soybean",
+    "strawberry",
+    "tomato"
+  ],
+  "seconds": 122.9
+}

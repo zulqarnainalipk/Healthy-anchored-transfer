@@ -1,0 +1,14 @@
+{
+  "module": "09_features_plantwild_cpu",
+  "encoder": "facebook/dinov2-base",
+  "encoder_revision": "f9e44c814b77203eaa57a6bdbbd535f21ede1415",
+  "encoder_commit_loaded": "unknown",
+  "images": 17328,
+  "dropped_by_duplicate_rule": 1214,
+  "failed_to_read": [],
+  "dtype": "float16",
+  "feature_layout": "CLS (768) then mean patch (768)",
+  "input_size": 224,
+  "device": "cpu",
+  "seconds": 6874.0
+}

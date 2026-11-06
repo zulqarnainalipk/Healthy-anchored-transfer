@@ -1,0 +1,39 @@
+source_crop,disease,train_images,status
+apple,Apple_scab,497,fitted: 2 components
+apple,Cedar_apple_rust,218,fitted: 2 components
+apple,apple black rot,57,fitted: 1 components
+apple,apple mosaic virus,61,fitted: 2 components
+apple,apple rust,96,fitted: 2 components
+apple,apple scab,179,fitted: 2 components
+blueberry,blueberry anthracnose,29,skipped: fewer than 30 training images
+blueberry,blueberry botrytis blight,25,skipped: fewer than 30 training images
+blueberry,blueberry mummy berry,33,fitted: 1 components
+blueberry,blueberry rust,29,skipped: fewer than 30 training images
+blueberry,blueberry scorch,29,skipped: fewer than 30 training images
+cherry_including_sour,Powdery_mildew,851,fitted: 2 components
+corn_maize,Cercospora_leaf_spot Gray_leaf_spot,414,fitted: 2 components
+corn_maize,Common_rust_,951,fitted: 2 components
+corn_maize,Northern_Leaf_Blight,802,fitted: 2 components
+pepper_bell,Bacterial_spot,782,fitted: 2 components
+soybean,bean rust,81,fitted: 2 components
+soybean,soybean bacterial blight,63,fitted: 2 components
+soybean,soybean brown spot,49,fitted: 1 components
+soybean,soybean downy mildew,106,fitted: 2 components
+soybean,soybean frog eye leaf spot,165,fitted: 2 components
+soybean,soybean mosaic,81,fitted: 2 components
+tomato,Bacterial_spot,1700,fitted: 2 components
+tomato,Early_blight,791,fitted: 2 components
+tomato,Late_blight,1549,fitted: 2 components
+tomato,Leaf_Mold,760,fitted: 2 components
+tomato,Septoria_leaf_spot,1412,fitted: 2 components
+tomato,Spider_mites_Two-spotted_spider_mite,1352,fitted: 2 components
+tomato,Target_Spot,1131,fitted: 2 components
+tomato,Tomato_Yellow_Leaf_Curl_Virus,4309,fitted: 2 components
+tomato,Tomato_mosaic_virus,297,fitted: 2 components
+tomato,tomato bacterial leaf spot,75,fitted: 2 components
+tomato,tomato early blight,130,fitted: 2 components
+tomato,tomato late blight,113,fitted: 2 components
+tomato,tomato leaf mold,108,fitted: 2 components
+tomato,tomato mosaic virus,43,fitted: 1 components
+tomato,tomato septoria leaf spot,90,fitted: 2 components
+tomato,tomato yellow leaf curl virus,64,fitted: 2 components

@@ -1,0 +1,6 @@
+[19:10:34] step 1: loading raw training-split features
+[19:10:44]   51358 rows, 40 crops
+[19:10:49]   crops with healthy images 12; usable targets 8: [np.str_('apple'), np.str_('corn_maize'), np.str_('grape'), np.str_('peach'), np.str_('potato'), np.str_('soybean'), np.str_('strawberry'), np.str_('tomato')]
+[19:10:49] step 2: projection base
+[19:39:13]   base scale 2.0 done (1719 s)
+[19:39:13] done in 1720 s, wrote results\51_review_checks\run\run_base2.csv

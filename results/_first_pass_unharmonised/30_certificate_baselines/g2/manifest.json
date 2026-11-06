@@ -1,0 +1,15 @@
+{
+  "module": "30_certificate_baselines",
+  "worlds": [
+    "b2",
+    "c25",
+    "c50"
+  ],
+  "scores": [
+    "bound",
+    "ens_disagree",
+    "low_conf"
+  ],
+  "operator_scale": 2.0,
+  "seconds": 417.8
+}

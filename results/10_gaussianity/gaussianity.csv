@@ -1,0 +1,8 @@
+crop,train,validation,loglik_single_per_image,loglik_mixture_per_image,gain_mixture_minus_single
+apple,1350,135,-12.172,-11.963,0.209
+blueberry,1187,169,-12.019,-12.012,0.006
+cherry_including_sour,696,88,-11.431,-11.233,0.198
+corn_maize,933,108,-22.801,-22.623,0.178
+pepper_bell,1175,143,-13.214,-12.624,0.59
+soybean,4083,496,-11.044,-10.826,0.218
+tomato,1270,149,-12.633,-12.553,0.081

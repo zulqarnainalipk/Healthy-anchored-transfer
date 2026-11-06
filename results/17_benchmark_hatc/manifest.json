@@ -1,0 +1,29 @@
+{
+  "module": "17_benchmark_hatc",
+  "worlds": [
+    "a",
+    "a2",
+    "b",
+    "b2",
+    "c25",
+    "c50",
+    "c100",
+    "d",
+    "e",
+    "f"
+  ],
+  "healthy_n": [
+    50,
+    200
+  ],
+  "disease_n": 50,
+  "replicates": 200,
+  "operator_scale": 2.0,
+  "methods": [
+    "NA",
+    "MC",
+    "HATC"
+  ],
+  "note": "affine branch only; intervals (module 36) and the Brenier branch come later",
+  "seconds": 58.6
+}

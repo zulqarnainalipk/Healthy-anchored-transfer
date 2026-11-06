@@ -1,0 +1,177 @@
+disease_type,source,target,tier,source_disease_images,target_disease_images,target_healthy_images,passes_counts
+rust,apple,bean,2,308,165,258,1
+rust,apple,blueberry,2,308,117,281,1
+rust,apple,coffee,2,308,190,138,1
+rust,apple,corn,2,308,237,156,1
+rust,apple,garlic,2,308,160,228,1
+rust,bean,apple,2,165,308,444,1
+rust,bean,blueberry,2,165,117,281,1
+rust,bean,coffee,2,165,190,138,1
+rust,bean,corn,2,165,237,156,1
+rust,bean,garlic,2,165,160,228,1
+rust,blueberry,apple,2,117,308,444,1
+rust,blueberry,bean,2,117,165,258,1
+rust,blueberry,coffee,2,117,190,138,1
+rust,blueberry,corn,2,117,237,156,1
+rust,blueberry,garlic,2,117,160,228,1
+rust,coffee,apple,2,190,308,444,1
+rust,coffee,bean,2,190,165,258,1
+rust,coffee,blueberry,2,190,117,281,1
+rust,coffee,corn,2,190,237,156,1
+rust,coffee,garlic,2,190,160,228,1
+rust,corn,apple,2,237,308,444,1
+rust,corn,bean,2,237,165,258,1
+rust,corn,blueberry,2,237,117,281,1
+rust,corn,coffee,2,237,190,138,1
+rust,corn,garlic,2,237,160,228,1
+rust,garlic,apple,2,160,308,444,1
+rust,garlic,bean,2,160,165,258,1
+rust,garlic,blueberry,2,160,117,281,1
+rust,garlic,coffee,2,160,190,138,1
+rust,garlic,corn,2,160,237,156,1
+mosaic virus,apple,bean,2,181,125,258,1
+mosaic virus,apple,lettuce,2,181,100,244,1
+mosaic virus,apple,tobacco,2,181,91,71,1
+mosaic virus,apple,tomato,2,181,189,226,1
+mosaic virus,bean,apple,2,125,181,444,1
+mosaic virus,bean,lettuce,2,125,100,244,1
+mosaic virus,bean,tobacco,2,125,91,71,1
+mosaic virus,bean,tomato,2,125,189,226,1
+mosaic virus,lettuce,apple,2,100,181,444,1
+mosaic virus,lettuce,bean,2,100,125,258,1
+mosaic virus,lettuce,tobacco,2,100,91,71,1
+mosaic virus,lettuce,tomato,2,100,189,226,1
+mosaic virus,tobacco,apple,2,91,181,444,1
+mosaic virus,tobacco,bean,2,91,125,258,1
+mosaic virus,tobacco,lettuce,2,91,100,244,1
+mosaic virus,tobacco,tomato,2,91,189,226,1
+mosaic virus,tomato,apple,2,189,181,444,1
+mosaic virus,tomato,bean,2,189,125,258,1
+mosaic virus,tomato,lettuce,2,189,100,244,1
+mosaic virus,tomato,tobacco,2,189,91,71,1
+powdery mildew,cherry,cucumber,2,114,236,348,1
+powdery mildew,cherry,squash,2,114,281,410,1
+powdery mildew,cucumber,cherry,2,236,114,286,1
+powdery mildew,cucumber,squash,2,236,281,410,1
+powdery mildew,squash,cherry,2,281,114,286,1
+powdery mildew,squash,cucumber,2,281,236,348,1
+downy mildew,basil,broccoli,2,86,65,269,1
+downy mildew,basil,grape,2,86,395,201,1
+downy mildew,basil,lettuce,2,86,118,244,1
+downy mildew,broccoli,basil,2,65,86,589,1
+downy mildew,broccoli,grape,2,65,395,201,1
+downy mildew,broccoli,lettuce,2,65,118,244,1
+downy mildew,grape,basil,2,395,86,589,1
+downy mildew,grape,broccoli,2,395,65,269,1
+downy mildew,grape,lettuce,2,395,118,244,1
+downy mildew,lettuce,basil,2,118,86,589,1
+downy mildew,lettuce,broccoli,2,118,65,269,1
+downy mildew,lettuce,grape,2,118,395,201,1
+early blight,celery,potato,2,55,227,249,1
+early blight,celery,tomato,2,55,346,226,1
+early blight,potato,celery,2,227,55,212,1
+early blight,potato,tomato,1,227,346,226,1
+early blight,tomato,celery,2,346,55,212,1
+early blight,tomato,potato,1,346,227,249,1
+late blight,potato,tomato,1,240,295,226,1
+late blight,tomato,potato,1,295,240,249,1
+black rot,apple,grape,2,173,229,201,1
+black rot,grape,apple,2,229,173,444,1
+anthracnose,celery,strawberry,2,44,98,199,1
+anthracnose,strawberry,celery,2,98,44,212,1
+sheath blight,ginger,rice,2,87,250,252,1
+sheath blight,rice,ginger,2,250,87,177,1
+alternaria leaf spot,cabbage,cauliflower,2,128,98,195,1
+alternaria leaf spot,cauliflower,cabbage,2,98,128,464,1
+leaf spot,bell pepper,cabbage,3,117,128,464,1
+leaf spot,bell pepper,cauliflower,3,117,98,195,1
+leaf spot,bell pepper,cherry,3,117,230,286,1
+leaf spot,bell pepper,corn,3,117,216,156,1
+leaf spot,bell pepper,cucumber,3,117,251,348,1
+leaf spot,bell pepper,eggplant,3,117,88,240,1
+leaf spot,bell pepper,ginger,3,117,87,177,1
+leaf spot,bell pepper,grape,3,117,106,201,1
+leaf spot,bell pepper,tomato,3,117,500,226,1
+leaf spot,cabbage,bell pepper,3,128,117,240,1
+leaf spot,cabbage,cauliflower,3,128,98,195,1
+leaf spot,cabbage,cherry,3,128,230,286,1
+leaf spot,cabbage,corn,3,128,216,156,1
+leaf spot,cabbage,cucumber,3,128,251,348,1
+leaf spot,cabbage,eggplant,3,128,88,240,1
+leaf spot,cabbage,ginger,3,128,87,177,1
+leaf spot,cabbage,grape,3,128,106,201,1
+leaf spot,cabbage,tomato,3,128,500,226,1
+leaf spot,cauliflower,bell pepper,3,98,117,240,1
+leaf spot,cauliflower,cabbage,3,98,128,464,1
+leaf spot,cauliflower,cherry,3,98,230,286,1
+leaf spot,cauliflower,corn,3,98,216,156,1
+leaf spot,cauliflower,cucumber,3,98,251,348,1
+leaf spot,cauliflower,eggplant,3,98,88,240,1
+leaf spot,cauliflower,ginger,3,98,87,177,1
+leaf spot,cauliflower,grape,3,98,106,201,1
+leaf spot,cauliflower,tomato,3,98,500,226,1
+leaf spot,cherry,bell pepper,3,230,117,240,1
+leaf spot,cherry,cabbage,3,230,128,464,1
+leaf spot,cherry,cauliflower,3,230,98,195,1
+leaf spot,cherry,corn,3,230,216,156,1
+leaf spot,cherry,cucumber,3,230,251,348,1
+leaf spot,cherry,eggplant,3,230,88,240,1
+leaf spot,cherry,ginger,3,230,87,177,1
+leaf spot,cherry,grape,3,230,106,201,1
+leaf spot,cherry,tomato,3,230,500,226,1
+leaf spot,corn,bell pepper,3,216,117,240,1
+leaf spot,corn,cabbage,3,216,128,464,1
+leaf spot,corn,cauliflower,3,216,98,195,1
+leaf spot,corn,cherry,3,216,230,286,1
+leaf spot,corn,cucumber,3,216,251,348,1
+leaf spot,corn,eggplant,3,216,88,240,1
+leaf spot,corn,ginger,3,216,87,177,1
+leaf spot,corn,grape,3,216,106,201,1
+leaf spot,corn,tomato,3,216,500,226,1
+leaf spot,cucumber,bell pepper,3,251,117,240,1
+leaf spot,cucumber,cabbage,3,251,128,464,1
+leaf spot,cucumber,cauliflower,3,251,98,195,1
+leaf spot,cucumber,cherry,3,251,230,286,1
+leaf spot,cucumber,corn,3,251,216,156,1
+leaf spot,cucumber,eggplant,3,251,88,240,1
+leaf spot,cucumber,ginger,3,251,87,177,1
+leaf spot,cucumber,grape,3,251,106,201,1
+leaf spot,cucumber,tomato,3,251,500,226,1
+leaf spot,eggplant,bell pepper,3,88,117,240,1
+leaf spot,eggplant,cabbage,3,88,128,464,1
+leaf spot,eggplant,cauliflower,3,88,98,195,1
+leaf spot,eggplant,cherry,3,88,230,286,1
+leaf spot,eggplant,corn,3,88,216,156,1
+leaf spot,eggplant,cucumber,3,88,251,348,1
+leaf spot,eggplant,ginger,3,88,87,177,1
+leaf spot,eggplant,grape,3,88,106,201,1
+leaf spot,eggplant,tomato,3,88,500,226,1
+leaf spot,ginger,bell pepper,3,87,117,240,1
+leaf spot,ginger,cabbage,3,87,128,464,1
+leaf spot,ginger,cauliflower,3,87,98,195,1
+leaf spot,ginger,cherry,3,87,230,286,1
+leaf spot,ginger,corn,3,87,216,156,1
+leaf spot,ginger,cucumber,3,87,251,348,1
+leaf spot,ginger,eggplant,3,87,88,240,1
+leaf spot,ginger,grape,3,87,106,201,1
+leaf spot,ginger,tomato,3,87,500,226,1
+leaf spot,grape,bell pepper,3,106,117,240,1
+leaf spot,grape,cabbage,3,106,128,464,1
+leaf spot,grape,cauliflower,3,106,98,195,1
+leaf spot,grape,cherry,3,106,230,286,1
+leaf spot,grape,corn,3,106,216,156,1
+leaf spot,grape,cucumber,3,106,251,348,1
+leaf spot,grape,eggplant,3,106,88,240,1
+leaf spot,grape,ginger,3,106,87,177,1
+leaf spot,grape,tomato,3,106,500,226,1
+leaf spot,tomato,bell pepper,3,500,117,240,1
+leaf spot,tomato,cabbage,3,500,128,464,1
+leaf spot,tomato,cauliflower,3,500,98,195,1
+leaf spot,tomato,cherry,3,500,230,286,1
+leaf spot,tomato,corn,3,500,216,156,1
+leaf spot,tomato,cucumber,3,500,251,348,1
+leaf spot,tomato,eggplant,3,500,88,240,1
+leaf spot,tomato,ginger,3,500,87,177,1
+leaf spot,tomato,grape,3,500,106,201,1
+leaf blight,corn,garlic,3,224,147,228,1
+leaf blight,garlic,corn,3,147,224,156,1

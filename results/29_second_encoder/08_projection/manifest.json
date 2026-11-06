@@ -1,0 +1,18 @@
+{
+  "module": "08_projection",
+  "method": "shrinkage LDA (solver eigen, shrinkage auto), fitted on source training split only",
+  "sources": [
+    "plantseg_v6",
+    "plantvillage_color"
+  ],
+  "train_rows": 51358,
+  "validation_rows": 6677,
+  "classes_train": 137,
+  "dimensions": [
+    4,
+    8,
+    16
+  ],
+  "seed": 2026,
+  "seconds": 28.4
+}

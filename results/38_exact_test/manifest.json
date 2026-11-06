@@ -1,0 +1,6 @@
+{
+  "module": "38_exact_test",
+  "cells": 20,
+  "descriptive_only": true,
+  "note": "crops share source samples, so independence does not hold; no inference is drawn"
+}

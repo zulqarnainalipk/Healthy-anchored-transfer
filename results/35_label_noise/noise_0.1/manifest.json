@@ -1,0 +1,20 @@
+{
+  "module": "43_ablation_engine",
+  "tag": "noise_0.1",
+  "projection": "results\\08_projection\\projection_k16.npz",
+  "dimensions": 16,
+  "healthy_n": [
+    200
+  ],
+  "worlds": [
+    "a",
+    "c50",
+    "e",
+    "f"
+  ],
+  "reps": 100,
+  "operator_scale": 2.0,
+  "world_seed": 2026,
+  "label_noise": 0.1,
+  "seconds": 58.0
+}

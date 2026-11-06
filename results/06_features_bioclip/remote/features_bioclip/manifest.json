@@ -1,0 +1,42 @@
+{
+  "module": "06_features_bioclip",
+  "encoder": "hf-hub:imageomics/bioclip",
+  "input_size": 224,
+  "dimensions": 512,
+  "images": 81261,
+  "files": {
+    "chili_yellow_leaf": {
+      "file": "features_chili_yellow_leaf.npy",
+      "rows": 6566,
+      "sha256": "b49b3a0b42b21e8940827ff689bf534b30ef5cb1e21d4a6185b5e066243e83d2"
+    },
+    "fig_sartak_sfld": {
+      "file": "features_fig_sartak_sfld.npy",
+      "rows": 2037,
+      "sha256": "3658d8aa585fc923b10a5512061538c53b1c954d9e537273bdcf76dc2899b15d"
+    },
+    "peach_leaf_damage": {
+      "file": "features_peach_leaf_damage.npy",
+      "rows": 182,
+      "sha256": "a01ed04d8f9796b795b67a4ca37a90146ddf19a878c2313c4baad105165ff885"
+    },
+    "plantseg_v6": {
+      "file": "features_plantseg_v6.npy",
+      "rows": 11458,
+      "sha256": "caa67c7915878584eac78316e2ae249d331f210feb4061a89c72cabfccba2a04"
+    },
+    "plantvillage_color": {
+      "file": "features_plantvillage_color.npy",
+      "rows": 54306,
+      "sha256": "30de20c428c9812d7441ec2f146aeed46ab96616d86d86404797b736e73d3c63"
+    },
+    "rice_leaf_disease": {
+      "file": "features_rice_leaf_disease.npy",
+      "rows": 6712,
+      "sha256": "8f7bc1e63809920e266f5a8fba63595a032704992a717adbbb0f85328f36aeea"
+    }
+  },
+  "seconds": 6647.5,
+  "device": "cuda",
+  "open_clip_version": "3.3.0"
+}

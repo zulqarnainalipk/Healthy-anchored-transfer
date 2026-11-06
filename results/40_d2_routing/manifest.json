@@ -1,0 +1,23 @@
+{
+  "module": "40_d2_routing",
+  "enrolled": [
+    "cherry_including_sour",
+    "corn_maize",
+    "grape",
+    "peach",
+    "pepper_bell",
+    "soybean",
+    "strawberry",
+    "tomato"
+  ],
+  "unenrolled": [
+    "apple",
+    "raspberry",
+    "blueberry"
+  ],
+  "envelopes": 8,
+  "signatures": 19,
+  "seed": 2026,
+  "seconds": 6.8,
+  "note": "recapture and referral routes are not simulated"
+}

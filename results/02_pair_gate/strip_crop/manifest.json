@@ -1,0 +1,17 @@
+{
+  "module": "02_pair_gate",
+  "targets": [
+    "fig",
+    "rice"
+  ],
+  "target_disease_rows": 12,
+  "qualifying_U1": 2,
+  "qualifying_U2_triples": 7,
+  "gate_threshold_pairs": 25,
+  "gate_met_under_U1": false,
+  "gate_met_under_U2": false,
+  "healthy_by_target": {
+    "fig": 513,
+    "rice": 753
+  }
+}

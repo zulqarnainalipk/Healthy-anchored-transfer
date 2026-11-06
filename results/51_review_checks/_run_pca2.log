@@ -1,0 +1,6 @@
+[19:10:34] step 1: loading raw training-split features
+[19:10:45]   51358 rows, 40 crops
+[19:10:50]   crops with healthy images 12; usable targets 8: [np.str_('apple'), np.str_('corn_maize'), np.str_('grape'), np.str_('peach'), np.str_('potato'), np.str_('soybean'), np.str_('strawberry'), np.str_('tomato')]
+[19:10:50] step 2: projection loco_pca
+[19:42:24]   loco_pca scale 2.0 done (1910 s)
+[19:42:24] done in 1910 s, wrote results\51_review_checks\run\run_pca2.csv

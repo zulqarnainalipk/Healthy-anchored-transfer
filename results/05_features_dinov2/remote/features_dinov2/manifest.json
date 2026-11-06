@@ -1,0 +1,42 @@
+{
+  "module": "05_features_dinov2",
+  "encoder": "facebook/dinov2-base",
+  "encoder_commit": "unknown",
+  "input_size": 224,
+  "feature_layout": "CLS (768) then mean of patch tokens (768), float16",
+  "images": 81261,
+  "files": {
+    "chili_yellow_leaf": {
+      "file": "features_chili_yellow_leaf.npy",
+      "rows": 6566,
+      "sha256": "05fe5022b1039f7b9c299b32f6884590129e555fe1453787cd2fa275e8227a63"
+    },
+    "fig_sartak_sfld": {
+      "file": "features_fig_sartak_sfld.npy",
+      "rows": 2037,
+      "sha256": "e18ae52596703cc20a74b21670a5e63024fe89bcc1de667d65e1e6f0070d04f4"
+    },
+    "peach_leaf_damage": {
+      "file": "features_peach_leaf_damage.npy",
+      "rows": 182,
+      "sha256": "b90b13b0f88c43851cd8516d1d0bbe3d864935ce124ec96d9c429527dd6121af"
+    },
+    "plantseg_v6": {
+      "file": "features_plantseg_v6.npy",
+      "rows": 11458,
+      "sha256": "4595b3401c7bbb26fd0e2d67bad24e39f73b9db3da67468e47aeec570f46b966"
+    },
+    "plantvillage_color": {
+      "file": "features_plantvillage_color.npy",
+      "rows": 54306,
+      "sha256": "8b140d226d6444dee4fb579932f88116e336e89e0cc5b952a0cb9a95542c7031"
+    },
+    "rice_leaf_disease": {
+      "file": "features_rice_leaf_disease.npy",
+      "rows": 6712,
+      "sha256": "f1d8ac6b51cbd5d48d299b11fa27afbcba5236606e7cf9d2048e1eacedce0c0e"
+    }
+  },
+  "seconds": 7375.2,
+  "device": "cuda"
+}

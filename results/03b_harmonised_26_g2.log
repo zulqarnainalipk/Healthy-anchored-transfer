@@ -1,0 +1,5 @@
+[12:17:13] step 1/3: loading source samples
+[12:17:31]   78 groups, 12 crops
+[12:17:31] step 2/3: probes per world x replicate x label count
+[12:23:07]   world b2 done (1/3)
+[12:28:36]   world c25 done (2/3)

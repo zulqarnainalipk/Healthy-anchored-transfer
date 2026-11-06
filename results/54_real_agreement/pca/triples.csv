@@ -1,0 +1,109 @@
+target,disease,source1,source2,bound,ens_disagree,low_conf,hatc_ba,na_ba,gain_over_na,failure
+bean,rust,apple,blueberry,0.4236,0.1553,0.0481,0.8063,0.7077,0.0987,0
+bean,rust,apple,coffee,0.618,0.1406,0.0463,0.8246,0.6496,0.1751,0
+bean,rust,apple,corn,0.5611,0.1156,0.0468,0.8154,0.5904,0.225,0
+bean,rust,apple,garlic,0.7059,0.2013,0.0478,0.743,0.5887,0.1544,0
+bean,rust,blueberry,coffee,0.3125,0.0772,0.05,0.8601,0.6956,0.1645,0
+bean,rust,blueberry,corn,0.5841,0.1031,0.0486,0.8509,0.6364,0.2145,0
+bean,rust,blueberry,garlic,0.6171,0.2451,0.0482,0.7786,0.6347,0.1439,0
+bean,rust,coffee,corn,0.6441,0.087,0.0447,0.8692,0.5784,0.2908,0
+bean,rust,coffee,garlic,0.691,0.2415,0.0429,0.7969,0.5766,0.2202,0
+bean,rust,corn,garlic,0.6687,0.1947,0.0296,0.7876,0.5174,0.2702,0
+blueberry,rust,apple,bean,0.6214,0.1707,0.0522,0.8098,0.8312,-0.0213,1
+blueberry,rust,apple,coffee,0.6217,0.1516,0.0513,0.8142,0.7828,0.0315,0
+blueberry,rust,apple,corn,0.5619,0.1197,0.0538,0.7875,0.665,0.1225,0
+blueberry,rust,apple,garlic,0.6244,0.2134,0.0506,0.7058,0.663,0.0428,0
+blueberry,rust,bean,coffee,0.5731,0.0762,0.0381,0.8598,0.8174,0.0424,0
+blueberry,rust,bean,corn,0.4219,0.0884,0.0406,0.8331,0.6996,0.1334,0
+blueberry,rust,bean,garlic,0.6082,0.2258,0.0381,0.7514,0.6977,0.0537,0
+blueberry,rust,coffee,corn,0.6515,0.0805,0.0252,0.8375,0.6512,0.1862,0
+blueberry,rust,coffee,garlic,0.6149,0.2136,0.0256,0.7558,0.6493,0.1065,0
+blueberry,rust,corn,garlic,0.7053,0.1644,0.0275,0.729,0.5315,0.1975,0
+coffee,rust,apple,bean,0.6662,0.1198,0.0466,0.8862,0.7501,0.1361,0
+coffee,rust,apple,blueberry,0.4428,0.1366,0.0444,0.8884,0.7633,0.1251,0
+coffee,rust,apple,corn,0.6296,0.1037,0.0461,0.877,0.6317,0.2453,0
+coffee,rust,apple,garlic,0.6498,0.2782,0.0478,0.7856,0.6277,0.1579,0
+coffee,rust,bean,blueberry,0.5584,0.0597,0.0412,0.9064,0.7721,0.1343,0
+coffee,rust,bean,corn,0.3903,0.0969,0.042,0.895,0.6405,0.2545,0
+coffee,rust,bean,garlic,0.6299,0.322,0.0423,0.8036,0.6364,0.1672,0
+coffee,rust,blueberry,corn,0.6148,0.13,0.0275,0.8972,0.6537,0.2435,0
+coffee,rust,blueberry,garlic,0.6207,0.3601,0.0283,0.8058,0.6497,0.1561,0
+coffee,rust,corn,garlic,0.6961,0.2677,0.0389,0.7944,0.5181,0.2763,0
+corn,rust,apple,bean,0.6561,0.122,0.0407,0.9128,0.5421,0.3707,0
+corn,rust,apple,blueberry,0.4697,0.1275,0.0424,0.8974,0.5448,0.3526,0
+corn,rust,apple,coffee,0.6009,0.0891,0.0434,0.9144,0.5066,0.4079,0
+corn,rust,apple,garlic,0.6757,0.1034,0.0408,0.909,0.6153,0.2937,0
+corn,rust,bean,blueberry,0.5121,0.0653,0.0331,0.8897,0.5818,0.3079,0
+corn,rust,bean,coffee,0.5822,0.0663,0.0326,0.9067,0.5435,0.3632,0
+corn,rust,bean,garlic,0.5666,0.1018,0.0313,0.9013,0.6522,0.249,0
+corn,rust,blueberry,coffee,0.3456,0.0678,0.05,0.8913,0.5463,0.3451,0
+corn,rust,blueberry,garlic,0.5456,0.1026,0.05,0.8859,0.655,0.2309,0
+corn,rust,coffee,garlic,0.5673,0.0668,0.0377,0.9029,0.6167,0.2862,0
+garlic,rust,apple,bean,0.6035,0.1097,0.0421,0.8839,0.5706,0.3132,0
+garlic,rust,apple,blueberry,0.4783,0.1218,0.0396,0.8784,0.5685,0.3099,0
+garlic,rust,apple,coffee,0.6187,0.1088,0.0393,0.8856,0.5106,0.375,0
+garlic,rust,apple,corn,0.682,0.0621,0.0397,0.8679,0.6676,0.2003,0
+garlic,rust,bean,blueberry,0.4929,0.0656,0.0343,0.9094,0.6288,0.2806,0
+garlic,rust,bean,coffee,0.5013,0.0658,0.0341,0.9165,0.5709,0.3456,0
+garlic,rust,bean,corn,0.4903,0.0891,0.0344,0.8988,0.7278,0.171,0
+garlic,rust,blueberry,coffee,0.3131,0.0484,0.0384,0.9111,0.5688,0.3423,0
+garlic,rust,blueberry,corn,0.619,0.0887,0.0374,0.8935,0.7258,0.1677,0
+garlic,rust,coffee,corn,0.7402,0.0755,0.0336,0.9005,0.6678,0.2328,0
+apple,rust,bean,blueberry,0.583,0.0714,0.0343,0.6748,0.6502,0.0246,0
+apple,rust,bean,coffee,0.5461,0.0699,0.034,0.6878,0.5955,0.0923,0
+apple,rust,bean,corn,0.354,0.0803,0.0346,0.6933,0.5581,0.1352,0
+apple,rust,bean,garlic,0.6028,0.1105,0.035,0.6641,0.5582,0.1059,0
+apple,rust,blueberry,coffee,0.3192,0.0664,0.0351,0.6757,0.6281,0.0476,0
+apple,rust,blueberry,corn,0.535,0.1121,0.0346,0.6813,0.5907,0.0906,0
+apple,rust,blueberry,garlic,0.5697,0.1391,0.0341,0.652,0.5907,0.0612,0
+apple,rust,coffee,corn,0.6509,0.1106,0.0358,0.6943,0.536,0.1583,0
+apple,rust,coffee,garlic,0.6058,0.1519,0.0364,0.6649,0.5361,0.1289,0
+apple,rust,corn,garlic,0.6496,0.0991,0.0327,0.6705,0.4986,0.1719,0
+bean,mosaic virus,apple,lettuce,0.3066,0.1179,0.0761,0.6569,0.5659,0.091,0
+bean,mosaic virus,apple,tobacco,0.5534,0.1628,0.0752,0.6514,0.5844,0.067,0
+bean,mosaic virus,apple,tomato,0.476,0.134,0.0759,0.6602,0.6036,0.0566,0
+bean,mosaic virus,lettuce,tobacco,0.5943,0.1681,0.0854,0.6426,0.5423,0.1003,0
+bean,mosaic virus,lettuce,tomato,0.482,0.1368,0.0874,0.6513,0.5615,0.0899,0
+bean,mosaic virus,tobacco,tomato,0.5652,0.1981,0.1055,0.6459,0.5799,0.0659,0
+lettuce,mosaic virus,apple,bean,0.4299,0.1976,0.0822,0.7029,0.5762,0.1267,0
+lettuce,mosaic virus,apple,tobacco,0.6185,0.206,0.0831,0.6873,0.601,0.0863,0
+lettuce,mosaic virus,apple,tomato,0.4036,0.1361,0.0829,0.7233,0.5844,0.1389,0
+lettuce,mosaic virus,bean,tobacco,0.2798,0.1916,0.1126,0.6682,0.6073,0.0609,0
+lettuce,mosaic virus,bean,tomato,0.4566,0.1648,0.1161,0.7042,0.5907,0.1135,0
+lettuce,mosaic virus,tobacco,tomato,0.5394,0.201,0.1124,0.6886,0.6155,0.0731,0
+tobacco,mosaic virus,apple,bean,0.5244,0.2298,0.0871,0.5984,0.5736,0.0248,0
+tobacco,mosaic virus,apple,lettuce,0.4012,0.1466,0.0923,0.6061,0.5896,0.0165,0
+tobacco,mosaic virus,apple,tomato,0.456,0.1605,0.0825,0.5852,0.5804,0.0048,0
+tobacco,mosaic virus,bean,lettuce,0.5447,0.1529,0.1445,0.6193,0.5964,0.0229,0
+tobacco,mosaic virus,bean,tomato,0.4693,0.1769,0.1393,0.5984,0.5872,0.0112,0
+tobacco,mosaic virus,lettuce,tomato,0.5471,0.1197,0.0826,0.6061,0.6032,0.0029,0
+tomato,mosaic virus,apple,bean,0.5047,0.2364,0.1079,0.6689,0.5952,0.0738,0
+tomato,mosaic virus,apple,lettuce,0.3397,0.1728,0.1059,0.6612,0.5746,0.0866,0
+tomato,mosaic virus,apple,tobacco,0.5543,0.2138,0.1069,0.6442,0.5816,0.0626,0
+tomato,mosaic virus,bean,lettuce,0.5182,0.2278,0.1395,0.6392,0.5899,0.0493,0
+tomato,mosaic virus,bean,tobacco,0.2464,0.2579,0.1385,0.6222,0.597,0.0252,0
+tomato,mosaic virus,lettuce,tobacco,0.4875,0.2306,0.0878,0.6145,0.5764,0.0381,0
+apple,mosaic virus,bean,lettuce,0.5864,0.1902,0.1077,0.7396,0.581,0.1586,0
+apple,mosaic virus,bean,tobacco,0.3073,0.2284,0.1098,0.7156,0.592,0.1236,0
+apple,mosaic virus,bean,tomato,0.4649,0.1535,0.1083,0.7514,0.613,0.1384,0
+apple,mosaic virus,lettuce,tobacco,0.5655,0.1861,0.0801,0.7101,0.5485,0.1616,0
+apple,mosaic virus,lettuce,tomato,0.5992,0.1425,0.0801,0.7459,0.5695,0.1764,0
+apple,mosaic virus,tobacco,tomato,0.5631,0.222,0.1084,0.7219,0.5805,0.1414,0
+cucumber,powdery mildew,cherry,squash,0.643,0.1997,0.0536,0.7964,0.73,0.0664,0
+squash,powdery mildew,cherry,cucumber,0.5272,0.2187,0.0468,0.7953,0.7402,0.0551,0
+cherry,powdery mildew,cucumber,squash,0.1626,0.1777,0.0635,0.8475,0.6799,0.1676,0
+broccoli,downy mildew,basil,grape,0.321,0.0762,0.0414,0.8802,0.7031,0.1771,0
+broccoli,downy mildew,basil,lettuce,0.527,0.0361,0.0373,0.8905,0.7937,0.0968,0
+broccoli,downy mildew,grape,lettuce,0.6197,0.0675,0.0456,0.8746,0.7856,0.089,0
+grape,downy mildew,basil,broccoli,0.6426,0.1532,0.0688,0.8436,0.5945,0.2491,0
+grape,downy mildew,basil,lettuce,0.5494,0.1038,0.07,0.8594,0.6106,0.2487,0
+grape,downy mildew,broccoli,lettuce,0.6267,0.0838,0.0658,0.8145,0.6244,0.19,0
+lettuce,downy mildew,basil,broccoli,0.6545,0.0854,0.0428,0.9042,0.7831,0.1212,0
+lettuce,downy mildew,basil,grape,0.3994,0.0822,0.0431,0.9078,0.7208,0.187,0
+lettuce,downy mildew,broccoli,grape,0.7084,0.07,0.0246,0.8858,0.7797,0.106,0
+basil,downy mildew,broccoli,grape,0.7125,0.051,0.0234,0.8165,0.6429,0.1736,0
+basil,downy mildew,broccoli,lettuce,0.6512,0.0454,0.0238,0.8073,0.6672,0.1401,0
+basil,downy mildew,grape,lettuce,0.6389,0.054,0.022,0.8169,0.6294,0.1875,0
+potato,early blight,celery,tomato,0.8025,0.0621,0.0258,0.923,0.7394,0.1836,0
+tomato,early blight,celery,potato,0.6712,0.1267,0.0431,0.8215,0.772,0.0495,0
+celery,early blight,potato,tomato,0.7689,0.0418,0.0147,0.9566,0.7627,0.1938,0

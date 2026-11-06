@@ -1,0 +1,15 @@
+﻿[06:50:34] step 1/3: loading source features and labels
+[06:50:41]   123 crop-disease groups; 12 crops with healthy samples
+[06:50:41] step 2/3: generating worlds
+[06:50:42]   world a: samples written
+[06:50:43]   world a2: samples written
+[06:50:44]   world b: samples written
+[06:50:46]   world b2: samples written
+[06:50:47]   world c25: samples written
+[06:50:49]   world c50: samples written
+[06:50:51]   world c100: samples written
+[06:50:52]   world d: samples written
+[06:50:53]   world e: samples written
+[06:50:54]   world f: samples written
+[06:50:54] step 3/3: writing table and manifest
+[06:50:54] done: {"module": "16_world_generator", "worlds": ["a", "a2", "b", "b2", "c25", "c50", "c100", "d", "e", "f"], "replicates": 200, "healthy_n": [50, 200], "disease_n": [10, 50], "seed": 2026, "crops_with_healthy": ["apple", "blueberry", "cherry_including_sour", "corn_maize", "grape", "peach", "pepper_bell", "potato", "raspberry", "soybean", "strawberry", "tomato"], "seconds": 20.4, "note": "minimum-detectable-difference and power are computed in module 36b"}

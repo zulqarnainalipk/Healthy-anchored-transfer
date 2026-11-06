@@ -1,0 +1,9 @@
+{
+  "module": "02b_splits",
+  "rule_version": "02b-1",
+  "seed": 2026,
+  "rows": 81261,
+  "splits_csv_sha256": "ffb4e3d7c31b8a1998913119c6e3465f1e99b3600454ab2aa3d04e723c5dded5",
+  "leakage_check": "passed: no group spans two splits (probe rows excluded)",
+  "time": "2026-11-05 00:43:24"
+}

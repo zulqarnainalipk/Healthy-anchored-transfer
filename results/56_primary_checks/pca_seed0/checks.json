@@ -1,0 +1,85 @@
+{
+  "units": 80,
+  "target_crops": 22,
+  "source_crops": 22,
+  "best_simple": "MC",
+  "primary_mean_diff": 0.0711,
+  "bootstrap_90ci_by_seed": {
+    "1": [
+      0.0454,
+      0.0994
+    ],
+    "2": [
+      0.0455,
+      0.0996
+    ],
+    "3": [
+      0.0458,
+      0.0999
+    ],
+    "2026": [
+      0.0451,
+      0.0997
+    ],
+    "99": [
+      0.0455,
+      0.0997
+    ]
+  },
+  "leave_one_target_out_range": [
+    0.0668,
+    0.0748
+  ],
+  "leave_one_source_out_range": [
+    0.0625,
+    0.0773
+  ],
+  "leave_one_target_out_most_influential": "garlic",
+  "leave_one_source_out_most_influential": "corn",
+  "permutation_p_two_sided": 5e-05,
+  "target_crops_positive": 20,
+  "source_crops_positive": 21,
+  "paired_contrasts": {
+    "HATC_minus_OC": {
+      "units": 80,
+      "mean": 0.038,
+      "ci90": [
+        0.0099,
+        0.0619
+      ]
+    },
+    "HATC_minus_CORAL": {
+      "units": 80,
+      "mean": -0.0029,
+      "ci90": [
+        -0.0068,
+        0.001
+      ]
+    },
+    "probe5_minus_HATC": {
+      "units": 80,
+      "mean": 0.0121,
+      "ci90": [
+        -0.0093,
+        0.0336
+      ]
+    },
+    "probe10_minus_HATC": {
+      "units": 80,
+      "mean": 0.0438,
+      "ci90": [
+        0.0225,
+        0.0648
+      ]
+    },
+    "OC_minus_best_simple": {
+      "units": 80,
+      "mean": 0.0331,
+      "ci90": [
+        0.0016,
+        0.0714
+      ]
+    }
+  },
+  "other_seeds": {}
+}

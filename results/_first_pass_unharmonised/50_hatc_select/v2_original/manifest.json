@@ -1,0 +1,21 @@
+{
+  "module": "50_hatc_select",
+  "tag": "v2_original",
+  "world_seed": 2026,
+  "operator_scale": 2.0,
+  "candidates": [
+    "NA",
+    "MC",
+    "SCALE",
+    "STD",
+    "S25",
+    "S50",
+    "S75",
+    "CORAL",
+    "HATC"
+  ],
+  "replicates": 200,
+  "seconds": 468.3,
+  "parsimony_tolerance": 0.05,
+  "status": "post-hoc, exploratory extension; registered method is HATC; iteration 2"
+}

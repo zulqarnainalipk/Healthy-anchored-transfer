@@ -1,0 +1,19 @@
+tier,contrast,units,target_crops,source_crops,mean_diff,ci90_low,ci90_high,outcome,status
+1,HATC minus STD,4,2,2,-0.0029,-0.0085,0.0027,equivalent,exploratory (fewer than 8 clusters)
+1,CORAL minus STD,4,2,2,0.0006,-0.0058,0.007,equivalent,exploratory (fewer than 8 clusters)
+1,S25 minus STD,4,2,2,0.0008,-0.0027,0.0044,equivalent,exploratory (fewer than 8 clusters)
+1,S50 minus STD,4,2,2,-0.0007,-0.0019,0.0004,equivalent,exploratory (fewer than 8 clusters)
+1,S75 minus STD,4,2,2,0.0005,0.0,0.001,equivalent,exploratory (fewer than 8 clusters)
+1,OC minus STD,4,2,2,-0.0995,-0.157,-0.0421,different,exploratory (fewer than 8 clusters)
+1,probe5 minus STD,4,2,2,-0.0411,-0.0725,-0.0098,inconclusive,exploratory (fewer than 8 clusters)
+1,probe10 minus STD,4,2,2,-0.0181,-0.0571,0.0208,inconclusive,exploratory (fewer than 8 clusters)
+1,probe25 minus STD,4,2,2,0.0011,-0.0504,0.0526,inconclusive,exploratory (fewer than 8 clusters)
+2,HATC minus NA,80,22,22,-0.0559,-0.0821,-0.0308,different,ok
+2,CORAL minus NA,80,22,22,-0.0534,-0.0787,-0.0297,different,ok
+2,S25 minus NA,80,22,22,-0.0385,-0.0588,-0.0203,different,ok
+2,S50 minus NA,80,22,22,-0.0407,-0.0613,-0.022,different,ok
+2,S75 minus NA,80,22,22,-0.0467,-0.0693,-0.0255,different,ok
+2,OC minus NA,80,22,22,-0.1594,-0.1937,-0.1237,different,ok
+2,probe5 minus NA,80,22,22,-0.0367,-0.0558,-0.0203,different,ok
+2,probe10 minus NA,80,22,22,-0.0179,-0.0365,-0.0021,inconclusive,ok
+2,probe25 minus NA,63,16,18,-0.004,-0.0192,0.0098,equivalent,ok

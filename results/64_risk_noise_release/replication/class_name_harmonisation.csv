@@ -1,0 +1,90 @@
+class,role,crop,disease,images,unreadable,min_side_median,min_side_min,median_kb
+apple black rot,disease,apple,black rot,173,0,434,105,43
+apple leaf,healthy,apple,,444,0,511,160,61
+apple mosaic virus,disease,apple,mosaic virus,181,0,500,163,82
+apple rust,disease,apple,rust,308,0,500,86,66
+apple scab,disease,apple,scab,292,0,500,128,62
+banana leaf,healthy,banana,,243,0,500,186,49
+banana panama disease,disease,banana,panama disease,216,0,360,80,51
+basil downy mildew,disease,basil,downy mildew,86,0,558,129,80
+basil leaf,healthy,basil,,589,0,560,186,58
+bean halo blight,disease,bean,halo blight,115,0,433,75,56
+bean leaf,healthy,bean,,258,0,500,100,77
+bean mosaic virus,disease,bean,mosaic virus,125,0,420,94,45
+bean rust,disease,bean,rust,165,0,479,91,56
+bell pepper leaf,healthy,bell pepper,,240,0,639,165,79
+bell pepper leaf spot,disease,bell pepper,leaf spot,117,0,553,76,69
+blueberry leaf,healthy,blueberry,,281,0,565,180,69
+blueberry rust,disease,blueberry,rust,117,0,475,135,71
+broccoli downy mildew,disease,broccoli,downy mildew,65,0,450,54,79
+broccoli leaf,healthy,broccoli,,269,0,533,180,90
+cabbage alternaria leaf spot,disease,cabbage,alternaria leaf spot,128,0,420,42,47
+cabbage leaf,healthy,cabbage,,464,0,500,121,66
+carrot cavity spot,disease,,carrot cavity spot,74,0,465,92,37
+cauliflower alternaria leaf spot,disease,cauliflower,alternaria leaf spot,98,0,441,41,56
+cauliflower leaf,healthy,cauliflower,,195,0,670,186,93
+celery anthracnose,disease,celery,anthracnose,44,0,431,36,62
+celery early blight,disease,celery,early blight,55,0,534,64,72
+celery leaf,healthy,celery,,212,0,500,106,58
+cherry leaf,healthy,cherry,,286,0,700,177,86
+cherry leaf spot,disease,cherry,leaf spot,230,0,533,125,85
+cherry powdery mildew,disease,cherry,powdery mildew,114,0,533,112,64
+citrus canker,disease,,citrus canker,535,0,446,59,46
+citrus greening disease,disease,,citrus greening disease,237,0,507,102,76
+coffee leaf,healthy,coffee,,138,0,467,176,45
+coffee leaf rust,disease,coffee,leaf rust,190,0,553,100,72
+corn gray leaf spot,disease,corn,gray leaf spot,216,0,442,106,68
+corn leaf,healthy,corn,,156,0,542,160,75
+corn northern leaf blight,disease,corn,northern leaf blight,224,0,464,111,58
+corn rust,disease,corn,rust,237,0,567,59,97
+corn smut,disease,corn,smut,293,0,491,137,75
+cucumber angular leaf spot,disease,cucumber,angular leaf spot,251,0,454,102,57
+cucumber bacterial wilt,disease,cucumber,bacterial wilt,143,0,480,64,73
+cucumber leaf,healthy,cucumber,,348,0,682,90,112
+cucumber powdery mildew,disease,cucumber,powdery mildew,236,0,435,97,62
+eggplant cercospora leaf spot,disease,eggplant,cercospora leaf spot,88,0,461,76,48
+eggplant leaf,healthy,eggplant,,240,0,525,111,75
+garlic leaf,healthy,garlic,,228,0,526,162,78
+garlic leaf blight,disease,garlic,leaf blight,147,0,392,59,49
+garlic rust,disease,garlic,rust,160,0,439,63,51
+ginger leaf,healthy,ginger,,177,0,600,140,102
+ginger leaf spot,disease,ginger,leaf spot,87,0,422,89,58
+ginger sheath blight,disease,ginger,sheath blight,87,0,478,163,63
+grape black rot,disease,grape,black rot,229,0,437,52,46
+grape downy mildew,disease,grape,downy mildew,395,0,480,89,67
+grape leaf,healthy,grape,,201,0,500,165,48
+grape leaf spot,disease,grape,leaf spot,106,0,413,78,48
+grapevine leafroll disease,disease,,grapevine leafroll disease,138,0,500,75,67
+lettuce downy mildew,disease,lettuce,downy mildew,118,0,467,60,55
+lettuce leaf,healthy,lettuce,,244,0,628,269,85
+lettuce mosaic virus,disease,lettuce,mosaic virus,100,0,369,71,42
+maple leaf,healthy,maple,,316,0,500,111,55
+maple tar spot,disease,maple,tar spot,139,0,576,108,114
+peach leaf,healthy,peach,,157,0,500,95,67
+peach leaf curl,disease,peach,leaf curl,235,0,533,39,81
+plum leaf,healthy,plum,,325,0,520,104,62
+plum pocket disease,disease,plum,pocket disease,76,0,448,150,62
+potato early blight,disease,potato,early blight,227,0,365,64,46
+potato late blight,disease,potato,late blight,240,0,416,65,45
+potato leaf,healthy,potato,,249,0,600,160,92
+raspberry leaf,healthy,raspberry,,180,0,799,194,108
+rice blast,disease,rice,blast,148,0,444,66,58
+rice leaf,healthy,rice,,252,0,527,149,72
+rice sheath blight,disease,rice,sheath blight,250,0,382,52,48
+soybean leaf,healthy,soybean,,242,0,426,157,70
+squash leaf,healthy,squash,,410,0,539,165,87
+squash powdery mildew,disease,squash,powdery mildew,281,0,500,114,90
+strawberry anthracnose,disease,strawberry,anthracnose,98,0,543,155,79
+strawberry leaf,healthy,strawberry,,199,0,600,200,86
+strawberry leaf scorch,disease,strawberry,leaf scorch,76,0,500,102,77
+tobacco leaf,healthy,tobacco,,71,0,465,100,55
+tobacco mosaic virus,disease,tobacco,mosaic virus,91,0,379,65,42
+tomato bacterial leaf spot,disease,tomato,bacterial leaf spot,280,0,482,115,59
+tomato early blight,disease,tomato,early blight,346,0,466,80,57
+tomato late blight,disease,tomato,late blight,295,0,500,87,62
+tomato leaf,healthy,tomato,,226,0,751,249,94
+tomato leaf mold,disease,tomato,leaf mold,239,0,408,65,39
+tomato mosaic virus,disease,tomato,mosaic virus,189,0,440,101,52
+tomato septoria leaf spot,disease,tomato,septoria leaf spot,220,0,431,59,48
+tomato yellow leaf curl virus,disease,tomato,yellow leaf curl virus,171,0,480,63,64
+zucchini yellow mosaic virus,disease,,zucchini yellow mosaic virus,181,0,450,75,61

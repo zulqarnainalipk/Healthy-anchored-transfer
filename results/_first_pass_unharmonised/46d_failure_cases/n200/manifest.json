@@ -1,0 +1,10 @@
+{
+  "module": "46d_failure_cases",
+  "healthy_n": 200,
+  "worlds": [
+    "a",
+    "e"
+  ],
+  "reps": 58,
+  "seconds": 9.4
+}

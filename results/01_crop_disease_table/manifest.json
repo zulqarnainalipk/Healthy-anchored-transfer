@@ -1,0 +1,8 @@
+{
+  "module": "01_crop_disease_table",
+  "inventory": "results\\code_audit_result\\inventory.csv",
+  "rows_in": 100867,
+  "rows_out": 100867,
+  "eligible_images": 81261,
+  "masks_excluded": 11458
+}

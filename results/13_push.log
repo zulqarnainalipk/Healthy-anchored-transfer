@@ -1,0 +1,21 @@
+﻿[06:48:06] step 1/4: loading projection, host maps and features
+[06:48:13]   14 host maps: ['apple__fig', 'apple__rice', 'blueberry__fig', 'blueberry__rice', 'cherry_including_sour__fig', 'cherry_including_sour__rice', 'corn_maize__fig', 'corn_maize__rice', 'pepper_bell__fig', 'pepper_bell__rice', 'soybean__fig', 'soybean__rice', 'tomato__fig', 'tomato__rice']
+[06:48:13] step 2/4: fitting disease mixtures on source training data
+[06:48:17]   fitted 34 source disease models
+[06:48:17] step 3/4: pushing models through each host map
+[06:48:17]   apple -> fig: 6 disease models pushed
+[06:48:17]   apple -> rice: 6 disease models pushed
+[06:48:17]   blueberry -> fig: 1 disease models pushed
+[06:48:17]   blueberry -> rice: 1 disease models pushed
+[06:48:17]   cherry_including_sour -> fig: 1 disease models pushed
+[06:48:17]   cherry_including_sour -> rice: 1 disease models pushed
+[06:48:18]   corn_maize -> fig: 3 disease models pushed
+[06:48:18]   corn_maize -> rice: 3 disease models pushed
+[06:48:18]   pepper_bell -> fig: 1 disease models pushed
+[06:48:18]   pepper_bell -> rice: 1 disease models pushed
+[06:48:18]   soybean -> fig: 6 disease models pushed
+[06:48:18]   soybean -> rice: 6 disease models pushed
+[06:48:18]   tomato -> fig: 16 disease models pushed
+[06:48:18]   tomato -> rice: 16 disease models pushed
+[06:48:18] step 4/4: writing outputs
+[06:48:18] done: {"module": "13_push_forward", "projection_dimensions": 16, "maps_used": ["apple__fig", "apple__rice", "blueberry__fig", "blueberry__rice", "cherry_including_sour__fig", "cherry_including_sour__rice", "corn_maize__fig", "corn_maize__rice", "pepper_bell__fig", "pepper_bell__rice", "soybean__fig", "soybean__rice", "tomato__fig", "tomato__rice"], "pushed_models": 68, "source_disease_models": 34, "min_train": 30, "shrinkage": 0.1, "seed": 2026, "seconds": 11.3, "note": "pickle written by this run; the map quality is in module 11"}

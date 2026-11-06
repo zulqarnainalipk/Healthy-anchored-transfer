@@ -1,0 +1,21 @@
+{
+  "module": "43_ablation_engine",
+  "tag": "dim_k8",
+  "projection": "results\\08_projection\\projection_k8.npz",
+  "dimensions": 8,
+  "healthy_n": [
+    50,
+    200
+  ],
+  "worlds": [
+    "a",
+    "c50",
+    "e",
+    "f"
+  ],
+  "reps": 100,
+  "operator_scale": 2.0,
+  "world_seed": 2026,
+  "label_noise": 0.0,
+  "seconds": 49.0
+}

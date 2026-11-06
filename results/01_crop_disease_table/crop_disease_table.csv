@@ -1,0 +1,175 @@
+dataset,crop,disease,is_healthy,images
+chili_yellow_leaf,chili,healthy,1,3283
+chili_yellow_leaf,chili,yellow_leaf,0,3283
+fig_sartak_sfld,fig,anthracnose,0,448
+fig_sartak_sfld,fig,cercospora_leaf_spot,0,525
+fig_sartak_sfld,fig,healthy,1,513
+fig_sartak_sfld,fig,mosaic,0,551
+peach_leaf_damage,peach,abiotic_stress,0,24
+peach_leaf_damage,peach,chewing_insect,0,7
+peach_leaf_damage,peach,healthy,1,107
+peach_leaf_damage,peach,mechanical_stress,0,44
+plantseg_v6,apple,apple black rot,0,83
+plantseg_v6,apple,apple mosaic virus,0,89
+plantseg_v6,apple,apple rust,0,139
+plantseg_v6,apple,apple scab,0,258
+plantseg_v6,banana,banana anthracnose,0,71
+plantseg_v6,banana,banana black leaf streak,0,167
+plantseg_v6,banana,banana bunchy top,0,157
+plantseg_v6,banana,banana cigar end rot,0,60
+plantseg_v6,banana,banana cordana leaf spot,0,55
+plantseg_v6,banana,banana panama disease,0,63
+plantseg_v6,basil,basil downy mildew,0,63
+plantseg_v6,bean,bean halo blight,0,56
+plantseg_v6,bean,bean mosaic virus,0,58
+plantseg_v6,bean,bean rust,0,115
+plantseg_v6,bell pepper,bell pepper bacterial spot,0,76
+plantseg_v6,bell pepper,bell pepper blossom end rot,0,112
+plantseg_v6,bell pepper,bell pepper frogeye leaf spot,0,31
+plantseg_v6,bell pepper,bell pepper powdery mildew,0,28
+plantseg_v6,blueberry,blueberry anthracnose,0,42
+plantseg_v6,blueberry,blueberry botrytis blight,0,36
+plantseg_v6,blueberry,blueberry mummy berry,0,47
+plantseg_v6,blueberry,blueberry rust,0,43
+plantseg_v6,blueberry,blueberry scorch,0,43
+plantseg_v6,broccoli,broccoli alternaria leaf spot,0,65
+plantseg_v6,broccoli,broccoli downy mildew,0,29
+plantseg_v6,broccoli,broccoli ring spot,0,16
+plantseg_v6,cabbage,cabbage alternaria leaf spot,0,61
+plantseg_v6,cabbage,cabbage black rot,0,131
+plantseg_v6,cabbage,cabbage downy mildew,0,84
+plantseg_v6,carrot,carrot alternaria leaf blight,0,60
+plantseg_v6,carrot,carrot cavity spot,0,72
+plantseg_v6,carrot,carrot cercospora leaf blight,0,19
+plantseg_v6,cauliflower,cauliflower alternaria leaf spot,0,54
+plantseg_v6,cauliflower,cauliflower bacterial soft rot,0,36
+plantseg_v6,celery,celery anthracnose,0,29
+plantseg_v6,celery,celery early blight,0,36
+plantseg_v6,cherry,cherry leaf spot,0,106
+plantseg_v6,cherry,cherry powdery mildew,0,33
+plantseg_v6,citrus,citrus canker,0,390
+plantseg_v6,citrus,citrus greening disease,0,133
+plantseg_v6,coffee,coffee berry blotch,0,118
+plantseg_v6,coffee,coffee black rot,0,7
+plantseg_v6,coffee,coffee brown eye spot,0,20
+plantseg_v6,coffee,coffee leaf rust,0,159
+plantseg_v6,corn,corn gray leaf spot,0,107
+plantseg_v6,corn,corn northern leaf blight,0,130
+plantseg_v6,corn,corn rust,0,177
+plantseg_v6,corn,corn smut,0,202
+plantseg_v6,cucumber,cucumber angular leaf spot,0,182
+plantseg_v6,cucumber,cucumber bacterial wilt,0,108
+plantseg_v6,cucumber,cucumber powdery mildew,0,188
+plantseg_v6,eggplant,eggplant cercospora leaf spot,0,60
+plantseg_v6,eggplant,eggplant phomopsis fruit rot,0,46
+plantseg_v6,eggplant,eggplant phytophthora blight,0,33
+plantseg_v6,garlic,garlic leaf blight,0,92
+plantseg_v6,garlic,garlic rust,0,106
+plantseg_v6,ginger,ginger leaf spot,0,25
+plantseg_v6,ginger,ginger sheath blight,0,68
+plantseg_v6,grape,grape black rot,0,122
+plantseg_v6,grape,grape downy mildew,0,280
+plantseg_v6,grape,grape leaf spot,0,91
+plantseg_v6,grape,grapevine leafroll disease,0,71
+plantseg_v6,lettuce,lettuce downy mildew,0,84
+plantseg_v6,lettuce,lettuce mosaic virus,0,39
+plantseg_v6,maple,maple tar spot,0,114
+plantseg_v6,peach,peach anthracnose,0,13
+plantseg_v6,peach,peach brown rot,0,173
+plantseg_v6,peach,peach leaf curl,0,182
+plantseg_v6,peach,peach rust,0,8
+plantseg_v6,peach,peach scab,0,78
+plantseg_v6,plum,plum bacterial spot,0,16
+plantseg_v6,plum,plum brown rot,0,81
+plantseg_v6,plum,plum pocket disease,0,57
+plantseg_v6,plum,plum pox virus,0,33
+plantseg_v6,plum,plum rust,0,34
+plantseg_v6,potato,potato early blight,0,126
+plantseg_v6,potato,potato late blight,0,117
+plantseg_v6,raspberry,raspberry fire blight,0,34
+plantseg_v6,raspberry,raspberry gray mold,0,40
+plantseg_v6,raspberry,raspberry leaf spot,0,18
+plantseg_v6,raspberry,raspberry yellow rust,0,37
+plantseg_v6,rice,rice blast,0,83
+plantseg_v6,rice,rice sheath blight,0,76
+plantseg_v6,soybean,bean rust,0,118
+plantseg_v6,soybean,soybean bacterial blight,0,91
+plantseg_v6,soybean,soybean brown spot,0,71
+plantseg_v6,soybean,soybean downy mildew,0,153
+plantseg_v6,soybean,soybean frog eye leaf spot,0,238
+plantseg_v6,soybean,soybean mosaic,0,117
+plantseg_v6,squash,squash powdery mildew,0,182
+plantseg_v6,strawberry,strawberry anthracnose,0,58
+plantseg_v6,strawberry,strawberry leaf scorch,0,39
+plantseg_v6,tobacco,tobacco blue mold,0,60
+plantseg_v6,tobacco,tobacco brown spot,0,66
+plantseg_v6,tobacco,tobacco frogeye leaf spot,0,28
+plantseg_v6,tobacco,tobacco mosaic virus,0,41
+plantseg_v6,tomato,tomato bacterial leaf spot,0,109
+plantseg_v6,tomato,tomato early blight,0,187
+plantseg_v6,tomato,tomato late blight,0,163
+plantseg_v6,tomato,tomato leaf mold,0,156
+plantseg_v6,tomato,tomato mosaic virus,0,63
+plantseg_v6,tomato,tomato septoria leaf spot,0,130
+plantseg_v6,tomato,tomato yellow leaf curl virus,0,93
+plantseg_v6,wheat,wheat bacterial leaf streak (black chaff),0,117
+plantseg_v6,wheat,wheat head scab,0,319
+plantseg_v6,wheat,wheat leaf rust,0,132
+plantseg_v6,wheat,wheat loose smut,0,215
+plantseg_v6,wheat,wheat powdery mildew,0,271
+plantseg_v6,wheat,wheat septoria blotch,0,232
+plantseg_v6,wheat,wheat stem rust,0,148
+plantseg_v6,wheat,wheat stripe rust,0,358
+plantseg_v6,zucchini,zucchini bacterial wilt,0,70
+plantseg_v6,zucchini,zucchini downy mildew,0,44
+plantseg_v6,zucchini,zucchini powdery mildew,0,213
+plantseg_v6,zucchini,zucchini yellow mosaic virus,0,95
+plantvillage_color,Apple,Apple_scab,0,630
+plantvillage_color,Apple,Cedar_apple_rust,0,275
+plantvillage_color,Apple,healthy,1,1645
+plantvillage_color,Apple_Frogeye_Spot,Apple_Frogeye_Spot,0,621
+plantvillage_color,Blueberry,healthy,1,1502
+plantvillage_color,Cherry_including_sour,Powdery_mildew,0,1052
+plantvillage_color,Cherry_including_sour,healthy,1,854
+plantvillage_color,Corn_maize,Cercospora_leaf_spot Gray_leaf_spot,0,513
+plantvillage_color,Corn_maize,Common_rust_,0,1192
+plantvillage_color,Corn_maize,Northern_Leaf_Blight,0,985
+plantvillage_color,Corn_maize,healthy,1,1162
+plantvillage_color,Grape,Black_rot,0,1180
+plantvillage_color,Grape,Esca_Black_Measles,0,1383
+plantvillage_color,Grape,Leaf_blight_Isariopsis_Leaf_Spot,0,1076
+plantvillage_color,Grape,healthy,1,423
+plantvillage_color,Orange,Haunglongbing_Citrus_greening,0,5507
+plantvillage_color,Peach,Bacterial_spot,0,2297
+plantvillage_color,Peach,healthy,1,360
+plantvillage_color,Pepper_bell,Bacterial_spot,0,997
+plantvillage_color,Pepper_bell,healthy,1,1478
+plantvillage_color,Potato,Early_blight,0,1000
+plantvillage_color,Potato,Late_blight,0,1000
+plantvillage_color,Potato,healthy,1,152
+plantvillage_color,Raspberry,healthy,1,371
+plantvillage_color,Soybean,healthy,1,5090
+plantvillage_color,Squash,Powdery_mildew,0,1835
+plantvillage_color,Strawberry,Leaf_scorch,0,1109
+plantvillage_color,Strawberry,healthy,1,456
+plantvillage_color,Tomato,Bacterial_spot,0,2127
+plantvillage_color,Tomato,Early_blight,0,1000
+plantvillage_color,Tomato,Late_blight,0,1909
+plantvillage_color,Tomato,Leaf_Mold,0,952
+plantvillage_color,Tomato,Septoria_leaf_spot,0,1771
+plantvillage_color,Tomato,Spider_mites_Two-spotted_spider_mite,0,1676
+plantvillage_color,Tomato,Target_Spot,0,1404
+plantvillage_color,Tomato,Tomato_Yellow_Leaf_Curl_Virus,0,5357
+plantvillage_color,Tomato,Tomato_mosaic_virus,0,373
+plantvillage_color,Tomato,healthy,1,1591
+plantvillage_color,plantvillage_deeplearning_paper_dataset,plantvillage_deeplearning_paper_dataset,0,1
+rice_leaf_disease,rice,Healthy,1,753
+rice_leaf_disease,rice,bacterial_leaf_blight,0,785
+rice_leaf_disease,rice,brown_spot,0,761
+rice_leaf_disease,rice,leaf_blast,0,521
+rice_leaf_disease,rice,leaf_scald,0,514
+rice_leaf_disease,rice,narrow_brown_spot,0,767
+rice_leaf_disease,rice,neck_blast,0,677
+rice_leaf_disease,rice,rice_hispa,0,770
+rice_leaf_disease,rice,sheath_blight,0,608
+rice_leaf_disease,rice,tungro,0,556

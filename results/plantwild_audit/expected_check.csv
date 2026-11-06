@@ -1,0 +1,90 @@
+name,in_classes_txt,folder_exists
+apple black rot,True,True
+apple leaf,True,True
+apple mosaic virus,True,True
+apple rust,True,True
+apple scab,True,True
+banana leaf,True,True
+banana panama disease,True,True
+basil downy mildew,True,True
+basil leaf,True,True
+bean halo blight,True,True
+bean leaf,True,True
+bean mosaic virus,True,True
+bean rust,True,True
+bell pepper leaf,True,True
+bell pepper leaf spot,True,True
+blueberry leaf,True,True
+blueberry rust,True,True
+broccoli downy mildew,True,True
+broccoli leaf,True,True
+cabbage alternaria leaf spot,True,True
+cabbage leaf,True,True
+carrot cavity spot,True,True
+cauliflower alternaria leaf spot,True,True
+cauliflower leaf,True,True
+celery anthracnose,True,True
+celery early blight,True,True
+celery leaf,True,True
+cherry leaf,True,True
+cherry leaf spot,True,True
+cherry powdery mildew,True,True
+citrus canker,True,True
+citrus greening disease,True,True
+coffee leaf,True,True
+coffee leaf rust,True,True
+corn gray leaf spot,True,True
+corn leaf,True,True
+corn northern leaf blight,True,True
+corn rust,True,True
+corn smut,True,True
+cucumber angular leaf spot,True,True
+cucumber bacterial wilt,True,True
+cucumber leaf,True,True
+cucumber powdery mildew,True,True
+eggplant cercospora leaf spot,True,True
+eggplant leaf,True,True
+garlic leaf,True,True
+garlic leaf blight,True,True
+garlic rust,True,True
+ginger leaf,True,True
+ginger leaf spot,True,True
+ginger sheath blight,True,True
+grape black rot,True,True
+grape downy mildew,True,True
+grape leaf,True,True
+grape leaf spot,True,True
+grapevine leafroll disease,True,True
+lettuce downy mildew,True,True
+lettuce leaf,True,True
+lettuce mosaic virus,True,True
+maple leaf,True,True
+maple tar spot,True,True
+peach leaf,True,True
+peach leaf curl,True,True
+plum leaf,True,True
+plum pocket disease,True,True
+potato early blight,True,True
+potato late blight,True,True
+potato leaf,True,True
+raspberry leaf,True,True
+rice blast,True,True
+rice leaf,True,True
+rice sheath blight,True,True
+soybean leaf,True,True
+squash leaf,True,True
+squash powdery mildew,True,True
+strawberry anthracnose,True,True
+strawberry leaf,True,True
+strawberry leaf scorch,True,True
+tobacco leaf,True,True
+tobacco mosaic virus,True,True
+tomato bacterial leaf spot,True,True
+tomato early blight,True,True
+tomato late blight,True,True
+tomato leaf,True,True
+tomato leaf mold,True,True
+tomato mosaic virus,True,True
+tomato septoria leaf spot,True,True
+tomato yellow leaf curl virus,True,True
+zucchini yellow mosaic virus,True,True

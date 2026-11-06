@@ -1,0 +1,9 @@
+[06:39:09] step 1/4: loading projection, features and healthy rows by crop
+[06:39:17]   sources: ['apple', 'blueberry', 'cherry_including_sour', 'corn_maize', 'pepper_bell', 'soybean', 'tomato']
+[06:39:17]   targets: ['fig', 'rice']
+[06:39:17] step 2/4: fitting affine maps and checking quality
+[06:39:17]   target fig: 7 maps, baseline 0.8750
+[06:39:17]   target rice: 7 maps, baseline 1.2130
+[06:39:17] step 3/4: writing maps and quality table
+[06:39:17] step 4/4: manifest
+[06:39:17] done: {"module": "11_host_maps_affine", "projection_dimensions": 16, "maps": 14, "sources": ["apple", "blueberry", "cherry_including_sour", "corn_maize", "pepper_bell", "soybean", "tomato"], "targets": ["fig", "rice"], "min_train": 200, "min_validation": 50, "shrinkage": 0.1, "seed": 2026, "seconds": 7.5}

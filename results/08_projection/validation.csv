@@ -1,0 +1,4 @@
+dimensions,validation_accuracy,validation_rows,validation_rows_unseen_class_dropped
+4,0.5073,6677,0
+8,0.7232,6677,0
+16,0.8049,6677,0

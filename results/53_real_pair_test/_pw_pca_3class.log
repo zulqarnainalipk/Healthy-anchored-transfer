@@ -1,0 +1,8 @@
+[23:11:15] step 1/4: loading features
+[23:11:16]   17328 images
+[23:11:16] step 2/4: units
+[23:11:16]   2 candidate units, 2 pass the count rule
+[23:11:16] step 3/4: running units
+[23:12:52]     2/2 units
+[23:12:52] step 4/4: primary outcome and bootstrap
+[23:12:57] done in 102 s

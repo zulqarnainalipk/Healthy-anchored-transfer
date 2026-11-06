@@ -1,0 +1,4 @@
+dataset,setting,images_test,brightness_only_accuracy,feature_probe_accuracy,feature_probe_auroc,chance
+chili,all test images,657,0.9833,1.0,1.0,0.5
+chili,background-matched (within 5.0 brightness),24,0.5417,1.0,1.0,0.5
+peach,5-fold cross-validation,182,0.4895,0.9008,0.9498,0.5879

@@ -1,0 +1,8 @@
+{
+  "module": "53_real_pair_test",
+  "dataset": "pv_pilot",
+  "projection": "pca",
+  "units": 2,
+  "reps": 20,
+  "seconds": 76.0
+}

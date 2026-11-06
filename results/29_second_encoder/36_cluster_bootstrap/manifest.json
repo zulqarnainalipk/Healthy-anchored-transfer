@@ -1,0 +1,10 @@
+{
+  "module": "36_cluster_bootstrap",
+  "resamples": 10000,
+  "min_clusters": 8,
+  "seed": 2026,
+  "cells": 20,
+  "rows": 100,
+  "limitation": "one cluster dimension (crop) in the synthetic worlds",
+  "seconds": 696.9
+}

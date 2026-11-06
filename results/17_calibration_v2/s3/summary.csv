@@ -1,0 +1,3 @@
+world,healthy_n,acc_NA,acc_MC,acc_HATC,paired_diff_HATC_minus_NA,replicates
+a,50,0.3486,0.4571,0.5266,0.178,23
+a,200,0.3491,0.4515,0.568,0.219,23

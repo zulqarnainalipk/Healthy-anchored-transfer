@@ -1,0 +1,14 @@
+{
+  "module": "10_features_plantwild_bioclip_cpu",
+  "encoder": "hf-hub:imageomics/bioclip",
+  "encoder_revision": "latest",
+  "encoder_commit_loaded": "latest at run time",
+  "images": 17328,
+  "dropped_by_duplicate_rule": 1214,
+  "failed_to_read": [],
+  "dtype": "float16",
+  "feature_layout": "BioCLIP image embedding (512)",
+  "input_size": 224,
+  "device": "cpu",
+  "seconds": 4040.1
+}

@@ -1,0 +1,5 @@
+world,method,wrong_predictions,share_wrong_above_0.9
+a,HATC,2403,0.465
+a,S50,2395,0.44
+e,HATC,4877,0.756
+e,S50,5141,0.86

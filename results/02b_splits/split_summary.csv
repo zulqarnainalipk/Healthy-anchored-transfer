@@ -1,0 +1,17 @@
+dataset,split,images
+chili_yellow_leaf,test,657
+chili_yellow_leaf,train,5253
+chili_yellow_leaf,val,656
+fig_sartak_sfld,test,305
+fig_sartak_sfld,train,1426
+fig_sartak_sfld,val,306
+peach_leaf_damage,probe,182
+plantseg_v6,test,2295
+plantseg_v6,train,7916
+plantseg_v6,val,1247
+plantvillage_color,test,5434
+plantvillage_color,train,43442
+plantvillage_color,val,5430
+rice_leaf_disease,test,671
+rice_leaf_disease,train,5370
+rice_leaf_disease,val,671

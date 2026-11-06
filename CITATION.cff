@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper and the archived release."
+title: "healthy-anchored-transfer: code, results and registered analysis rules for a benchmark of healthy-anchored alignment of plant-disease models across crops"
+abstract: "Code, registered analysis rules and results for the benchmark 'Can Healthy Leaves Alone Transfer Plant Disease Models Across Crops? A Benchmark of Healthy-Anchored Alignment': a registered real-pair test on PlantWild v1 (primary) and a synthetic-world benchmark built from real image features (secondary)."
+type: software
+version: "0.1.0"
+authors:
+  - family-names: "Ali"
+    given-names: "Zulqarnain"
+    email: "zulqar445ali@gmail.com"
+    orcid: "https://orcid.org/0009-0009-0281-882X"
+    affiliation: "Department of Information and Communication Engineering, Yeungnam University, 280 Daehak-ro, Gyeongsan 38541, Gyeongbuk, Republic of Korea"
+repository-code: "https://github.com/OWNER-TO-BE-SET/healthy-anchored-transfer"   # placeholder: replace when the repository is published
+keywords:
+  - plant disease
+  - domain adaptation
+  - optimal transport
+  - benchmark
+  - negative results
+  - PlantWild
+  - healthy-anchored alignment
+# Open owner decisions, deliberately not filled in here:
+#   date-released   set at the release
+#   doi             archive DOI of the release (none exists yet; none is invented)
+#   license         the licence is pending (see LICENSE.proposed); add an SPDX identifier once decided
+# Paper (MDPI): journal, year and DOI are not known yet. Uncomment and complete after acceptance.
+# preferred-citation:
+#   type: article
+#   title: "Can Healthy Leaves Alone Transfer Plant Disease Models Across Crops? A Benchmark of Healthy-Anchored Alignment"
+#   authors:
+#     - family-names: "Ali"
+#       given-names: "Zulqarnain"
+#       orcid: "https://orcid.org/0009-0009-0281-882X"
+#   journal: "JOURNAL-TO-BE-SET"
+#   year: 2026
+#   doi: "DOI-TO-BE-SET"

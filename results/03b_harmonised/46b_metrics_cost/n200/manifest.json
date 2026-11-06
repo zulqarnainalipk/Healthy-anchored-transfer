@@ -1,0 +1,15 @@
+{
+  "module": "46b_metrics_cost",
+  "healthy_n": 200,
+  "worlds": [
+    "a",
+    "c50",
+    "e",
+    "f"
+  ],
+  "reps": 58,
+  "operator_scale": 2.0,
+  "unlabelled_target_images": 150,
+  "world_seed": 2026,
+  "seconds": 24.5
+}

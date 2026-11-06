@@ -1,0 +1,161 @@
+<!doctype html><html><head><meta charset="utf-8"><title>HATC pipeline</title><style>html,body{margin:0;background:#fff}svg{display:block}</style></head><body><svg xmlns="http://www.w3.org/2000/svg" width="1800" height="980" viewBox="0 0 1800 980" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto"><path d="M0,1 L10,5 L0,9 L2.6,5 Z" fill="#0072B2"/></marker>
+<marker id="at" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto"><path d="M0,1 L10,5 L0,9 L2.6,5 Z" fill="#009E73"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto"><path d="M0,1 L10,5 L0,9 L2.6,5 Z" fill="#B87A00"/></marker>
+<symbol id="i-brain-circuit" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526 5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z" />
+  <path d="M9 13a4.5 4.5 0 0 0 3-4" />
+  <path d="M6.003 5.125A3 3 0 0 0 6.401 6.5" />
+  <path d="M3.477 10.896a4 4 0 0 1 .585-.396" />
+  <path d="M6 18a4 4 0 0 1-1.967-.516" />
+  <path d="M12 13h4" />
+  <path d="M12 18h6a2 2 0 0 1 2 2v1" />
+  <path d="M12 8h8" />
+  <path d="M16 8V5a2 2 0 0 1 2-2" />
+  <circle cx="16" cy="13" r=".5" />
+  <circle cx="18" cy="3" r=".5" />
+  <circle cx="20" cy="21" r=".5" />
+  <circle cx="20" cy="8" r=".5" />
+</symbol><symbol id="i-network" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="16" y="16" width="6" height="6" rx="1" />
+  <rect x="2" y="16" width="6" height="6" rx="1" />
+  <rect x="9" y="2" width="6" height="6" rx="1" />
+  <path d="M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3" />
+  <path d="M12 12V8" />
+</symbol><symbol id="i-filter" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3" />
+</symbol><symbol id="i-circle-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="12" cy="12" r="10" />
+  <path d="m9 12 2 2 4-4" />
+</symbol><symbol id="i-octagon-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m15 9-6 6" />
+  <path d="M2.586 16.726A2 2 0 0 1 2 15.312V8.688a2 2 0 0 1 .586-1.414l4.688-4.688A2 2 0 0 1 8.688 2h6.624a2 2 0 0 1 1.414.586l4.688 4.688A2 2 0 0 1 22 8.688v6.624a2 2 0 0 1-.586 1.414l-4.688 4.688a2 2 0 0 1-1.414.586H8.688a2 2 0 0 1-1.414-.586z" />
+  <path d="m9 9 6 6" />
+</symbol><symbol id="i-snowflake" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <line x1="2" x2="22" y1="12" y2="12" />
+  <line x1="12" x2="12" y1="2" y2="22" />
+  <path d="m20 16-4-4 4-4" />
+  <path d="m4 8 4 4-4 4" />
+  <path d="m16 4-4 4-4-4" />
+  <path d="m8 20 4-4 4 4" />
+</symbol><symbol id="i-tag" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z" />
+  <circle cx="7.5" cy="7.5" r=".5" fill="currentColor" />
+</symbol><symbol id="i-sigma" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M18 7V5a1 1 0 0 0-1-1H6.5a.5.5 0 0 0-.4.8l4.5 6a2 2 0 0 1 0 2.4l-4.5 6a.5.5 0 0 0 .4.8H17a1 1 0 0 0 1-1v-2" />
+</symbol>
+</defs>
+<rect width="1800" height="980" fill="#FFFFFF"/>
+<text x="30" y="38" font-size="22.1" text-anchor="start" font-weight="700" fill="#1A1A1A">a</text><text x="52" y="38" font-size="18.4" text-anchor="start" font-weight="400" fill="#1A1A1A">Inputs</text>
+<text x="560" y="38" font-size="22.1" text-anchor="start" font-weight="700" fill="#1A1A1A">b</text><text x="582" y="38" font-size="18.4" text-anchor="start" font-weight="400" fill="#1A1A1A">Shared frozen encoder</text>
+<text x="850" y="38" font-size="22.1" text-anchor="start" font-weight="700" fill="#1A1A1A">c</text><text x="872" y="38" font-size="18.4" text-anchor="start" font-weight="400" fill="#1A1A1A">Feature spaces</text>
+<text x="1215" y="38" font-size="22.1" text-anchor="start" font-weight="700" fill="#1A1A1A">d</text><text x="1237" y="38" font-size="18.4" text-anchor="start" font-weight="400" fill="#1A1A1A">Healthy-anchored map</text>
+<text x="1500" y="38" font-size="22.1" text-anchor="start" font-weight="700" fill="#1A1A1A">e</text><text x="1522" y="38" font-size="18.4" text-anchor="start" font-weight="400" fill="#1A1A1A">Decision</text>
+<rect x="30" y="56" width="470" height="400" rx="3" fill="#E8F6F1" stroke="#009E73" stroke-width="1.2"/>
+<text x="46" y="84" font-size="15.6" text-anchor="start" font-weight="700" fill="#1A1A1A">Source crop: tomato (labelled)</text>
+<text x="46" y="116" font-size="13.8" text-anchor="start" font-weight="400" fill="#1A1A1A">Healthy leaves</text>
+<image x="46" y="126" width="100" height="100" href="assets/src_h1.jpg" preserveAspectRatio="xMidYMid slice"/><rect x="46" y="126" width="100" height="100" fill="none" stroke="#009E73" stroke-width="1.5"/>
+<image x="158" y="126" width="100" height="100" href="assets/src_h2.jpg" preserveAspectRatio="xMidYMid slice"/><rect x="158" y="126" width="100" height="100" fill="none" stroke="#009E73" stroke-width="1.5"/>
+<image x="270" y="126" width="100" height="100" href="assets/src_h3.jpg" preserveAspectRatio="xMidYMid slice"/><rect x="270" y="126" width="100" height="100" fill="none" stroke="#009E73" stroke-width="1.5"/>
+<text x="390" y="182" font-size="13.8" text-anchor="start" font-weight="400" fill="#1A1A1A">n ≥ 50</text>
+<text x="46" y="268" font-size="13.8" text-anchor="start" font-weight="400" fill="#1A1A1A">Diseased leaves (one model per class)</text>
+<image x="46" y="278" width="100" height="100" href="assets/src_d1.jpg" preserveAspectRatio="xMidYMid slice"/><rect x="46" y="278" width="100" height="100" fill="none" stroke="#009E73" stroke-width="1.5"/>
+<text x="96" y="398" font-size="12.9" text-anchor="middle" font-weight="400" fill="#1A1A1A">early blight</text>
+<image x="158" y="278" width="100" height="100" href="assets/src_d2.jpg" preserveAspectRatio="xMidYMid slice"/><rect x="158" y="278" width="100" height="100" fill="none" stroke="#009E73" stroke-width="1.5"/>
+<text x="208" y="398" font-size="12.9" text-anchor="middle" font-weight="400" fill="#1A1A1A">septoria</text>
+<image x="270" y="278" width="100" height="100" href="assets/src_d3.jpg" preserveAspectRatio="xMidYMid slice"/><rect x="270" y="278" width="100" height="100" fill="none" stroke="#009E73" stroke-width="1.5"/>
+<text x="320" y="398" font-size="12.9" text-anchor="middle" font-weight="400" fill="#1A1A1A">leaf mold</text>
+<text x="46" y="432" font-size="12.4" text-anchor="start" font-weight="400" fill="#555555">Gaussian mixture per disease class, shrunk covariance</text>
+<rect x="30" y="490" width="470" height="430" rx="3" fill="#FDF3DF" stroke="#E69F00" stroke-width="1.2"/>
+<text x="46" y="518" font-size="15.6" text-anchor="start" font-weight="700" fill="#1A1A1A">Target crop: fig (healthy photographs only)</text>
+<text x="46" y="550" font-size="13.8" text-anchor="start" font-weight="400" fill="#1A1A1A">Healthy leaves, no disease labels</text>
+<image x="46" y="560" width="100" height="100" href="assets/tgt_h1.jpg" preserveAspectRatio="xMidYMid slice"/><rect x="46" y="560" width="100" height="100" fill="none" stroke="#E69F00" stroke-width="1.5"/>
+<image x="158" y="560" width="100" height="100" href="assets/tgt_h2.jpg" preserveAspectRatio="xMidYMid slice"/><rect x="158" y="560" width="100" height="100" fill="none" stroke="#E69F00" stroke-width="1.5"/>
+<image x="270" y="560" width="100" height="100" href="assets/tgt_h3.jpg" preserveAspectRatio="xMidYMid slice"/><rect x="270" y="560" width="100" height="100" fill="none" stroke="#E69F00" stroke-width="1.5"/>
+<text x="390" y="616" font-size="13.8" text-anchor="start" font-weight="400" fill="#1A1A1A">n ≥ 50</text>
+<use href="#i-tag" x="392" y="628" width="28" height="28" style="color:#8A97A8"/><line x1="388" y1="660" x2="424" y2="626" stroke="#D55E00" stroke-width="2.5"/>
+<text x="46" y="702" font-size="13.8" text-anchor="start" font-weight="400" fill="#1A1A1A">New field leaf to classify (unlabelled)</text>
+<image x="46" y="712" width="150" height="150" href="assets/tgt_new.jpg" preserveAspectRatio="xMidYMid slice"/><rect x="46" y="712" width="150" height="150" fill="none" stroke="#E69F00" stroke-width="1.5"/>
+<text x="216" y="790" font-size="12.9" text-anchor="start" font-weight="400" fill="#555555">disease of this leaf</text>
+<text x="216" y="808" font-size="12.9" text-anchor="start" font-weight="400" fill="#555555">is not given at any step</text>
+<rect x="560" y="250" width="250" height="480" rx="3" fill="#F5F7FA" stroke="#0072B2" stroke-width="1.2"/>
+<text x="685" y="282" font-size="14.7" text-anchor="middle" font-weight="700" fill="#1A1A1A">DINOv2 ViT-B/14</text>
+<image x="580" y="312" width="210" height="33" href="assets/tokens.png"/>
+<text x="685" y="364" font-size="12.4" text-anchor="middle" font-weight="400" fill="#1A1A1A">image cut into patch tokens</text>
+<path d="M685,372 V396" fill="none" stroke="#0072B2" stroke-width="1.5" marker-end="url(#a)"/>
+<polygon points="625,418 665,430 665,440 625,428" fill="#8FBBD9" stroke="#0072B2" stroke-width="1"/><polygon points="665,430 745,418 745,428 665,440" fill="#B8D6EA" stroke="#0072B2" stroke-width="1"/><polygon points="625,418 705,408 745,418 665,430" fill="#F9DFA6" stroke="#0072B2" stroke-width="1"/><polygon points="625,448 665,460 665,470 625,458" fill="#8FBBD9" stroke="#0072B2" stroke-width="1"/><polygon points="665,460 745,448 745,458 665,470" fill="#B8D6EA" stroke="#0072B2" stroke-width="1"/><polygon points="625,448 705,438 745,448 665,460" fill="#E3F0F8" stroke="#0072B2" stroke-width="1"/><polygon points="625,478 665,490 665,500 625,488" fill="#8FBBD9" stroke="#0072B2" stroke-width="1"/><polygon points="665,490 745,478 745,488 665,500" fill="#B8D6EA" stroke="#0072B2" stroke-width="1"/><polygon points="625,478 705,468 745,478 665,490" fill="#E3F0F8" stroke="#0072B2" stroke-width="1"/>
+<text x="756" y="484" font-size="13.8" text-anchor="start" font-weight="400" fill="#1A1A1A">× 12</text>
+<text x="685" y="516" font-size="12.4" text-anchor="middle" font-weight="400" fill="#1A1A1A">transformer blocks, weights frozen</text>
+<path d="M685,524 V548" fill="none" stroke="#0072B2" stroke-width="1.5" marker-end="url(#a)"/>
+<image x="600" y="552" width="170" height="64" href="assets/feature_strip.png"/><rect x="600" y="552" width="170" height="64" fill="none" stroke="#0072B2" stroke-width="1"/>
+<text x="685" y="636" font-size="12.4" text-anchor="middle" font-weight="400" fill="#1A1A1A">1,536 feature values per image</text>
+<path d="M685,644 V664" fill="none" stroke="#0072B2" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="612" y="668" width="146" height="44" rx="3" fill="#D5EEE6" stroke="#009E73" stroke-width="1.2"/>
+<use href="#i-filter" x="620" y="678" width="22" height="22" style="color:#0072B2"/>
+<text x="648" y="688" font-size="12.9" text-anchor="start" font-weight="700" fill="#1A1A1A">LDA projection</text><text x="648" y="704" font-size="11.5" text-anchor="start" font-weight="400" fill="#1A1A1A">16-d, source only</text>
+<path d="M500,256 H530 V380 H558" fill="none" stroke="#009E73" stroke-width="1.5" marker-end="url(#at)"/>
+<path d="M500,700 H530 V600 H558" fill="none" stroke="#B87A00" stroke-width="1.5" marker-end="url(#aa)"/>
+<rect x="850" y="56" width="330" height="420" rx="3" fill="#E8F6F1" stroke="#009E73" stroke-width="1.2"/>
+<text x="866" y="82" font-size="14.7" text-anchor="start" font-weight="700" fill="#1A1A1A">Source: tomato</text>
+<image x="864" y="94" width="302" height="258.2" href="assets/space_source.png"/>
+<circle cx="871" cy="369.16777629826896" r="5" fill="#00634A"/><text x="881" y="374.16777629826896" font-size="12.4" text-anchor="start" font-weight="400" fill="#1A1A1A">healthy</text>
+<circle cx="943" cy="369.16777629826896" r="5" fill="#009E73"/><text x="953" y="374.16777629826896" font-size="12.4" text-anchor="start" font-weight="400" fill="#1A1A1A">early blight</text>
+<circle cx="1039" cy="369.16777629826896" r="5" fill="#4DC4A1"/><text x="1049" y="374.16777629826896" font-size="12.4" text-anchor="start" font-weight="400" fill="#1A1A1A">septoria</text>
+<circle cx="1105" cy="369.16777629826896" r="5" fill="#99DCC6"/><text x="1115" y="374.16777629826896" font-size="12.4" text-anchor="start" font-weight="400" fill="#1A1A1A">leaf mold</text>
+<text x="1015" y="400.16777629826896" font-size="12.4" text-anchor="middle" font-weight="400" fill="#555555">real DINOv2 features, 16-d projection, 2-D view</text>
+<text x="1015" y="418.16777629826896" font-size="12.4" text-anchor="middle" font-weight="400" fill="#555555">ellipses: 2σ contours of the class Gaussians</text>
+<rect x="850" y="500" width="330" height="420" rx="3" fill="#FDF3DF" stroke="#E69F00" stroke-width="1.2"/>
+<text x="866" y="526" font-size="14.7" text-anchor="start" font-weight="700" fill="#1A1A1A">Target: fig</text>
+<image x="864" y="538" width="302" height="258.2" href="assets/space_target.png"/>
+<circle cx="871" cy="813.167776298269" r="5" fill="#E69F00"/><text x="882" y="818.167776298269" font-size="12.4" text-anchor="start" font-weight="400" fill="#1A1A1A">healthy (blue: Gaussian)</text>
+<circle cx="1100" cy="813.167776298269" r="5" fill="none" stroke="#D55E00" stroke-width="1.8"/><text x="1111" y="818.167776298269" font-size="12.4" text-anchor="start" font-weight="400" fill="#1A1A1A">new leaves</text>
+<path d="M866,838.167776298269 H896" stroke="#009E73" stroke-width="2" stroke-dasharray="6 3.5"/><text x="904" y="843.167776298269" font-size="12.4" text-anchor="start" font-weight="400" fill="#1A1A1A">tomato models pushed through T</text>
+<text x="1015" y="868.167776298269" font-size="12.4" text-anchor="middle" font-weight="400" fill="#555555">new leaves: fig anthracnose, unseen when fitting</text>
+<path d="M810,380 H830 V256 H848" fill="none" stroke="#009E73" stroke-width="1.5" marker-end="url(#at)"/>
+<path d="M810,600 H830 V680 H848" fill="none" stroke="#B87A00" stroke-width="1.5" marker-end="url(#aa)"/>
+<rect x="1215" y="290" width="250" height="400" rx="3" fill="#F5F7FA" stroke="#0072B2" stroke-width="1.2"/>
+<image x="1235" y="304" width="210" height="137.7" href="assets/map_mini.png"/>
+<text x="1340" y="459.6923076923077" font-size="12.0" text-anchor="middle" font-weight="400" fill="#555555">Gaussian of source healthy → target healthy</text>
+<image x="1236" y="473.6923076923077" width="76" height="76.0" href="assets/map_T.png"/>
+<text x="1274" y="565.6923076923076" font-size="12.0" text-anchor="middle" font-weight="400" fill="#1A1A1A">T (16 × 16)</text>
+<rect x="1322" y="479.6923076923077" width="130" height="58" rx="3" fill="#FFFFFF" stroke="#C9D3E0" stroke-width="1"/>
+<text x="1387" y="503.6923076923077" font-size="14.3" text-anchor="middle" font-weight="400" fill="#1A1A1A" font-style="italic">x ↦ μ<tspan font-size="10" dy="4">B</tspan><tspan dy="-4"> + T(x − μ</tspan><tspan font-size="10" dy="4">A</tspan><tspan dy="-4">)</tspan></text>
+<text x="1387" y="525.6923076923076" font-size="11.5" text-anchor="middle" font-weight="400" fill="#555555">push-through</text>
+<text x="1340" y="595.6923076923076" font-size="12.0" text-anchor="middle" font-weight="400" fill="#555555">hypothesis N: disease effects commute</text>
+<text x="1340" y="612.6923076923076" font-size="12.0" text-anchor="middle" font-weight="400" fill="#555555">with the host map (validated, not assumed)</text>
+<text x="1340" y="635.6923076923076" font-size="12.4" text-anchor="middle" font-weight="700" fill="#1A1A1A">needs ≥ 50 healthy images</text>
+<path d="M1180,266 H1198 V380 H1213" fill="none" stroke="#009E73" stroke-width="1.5" marker-end="url(#at)"/>
+<path d="M1180,710 H1198 V560 H1213" fill="none" stroke="#B87A00" stroke-width="1.5" marker-end="url(#aa)"/>
+<path d="M1340,692 V770 H1182" fill="none" stroke="#0072B2" stroke-width="1.5" stroke-dasharray="5 3.5" marker-end="url(#a)"/>
+<rect x="1500" y="56" width="270" height="420" rx="3" fill="#FFFFFF" stroke="#0072B2" stroke-width="1.2"/>
+<text x="1635" y="86" font-size="14.7" text-anchor="middle" font-weight="700" fill="#1A1A1A">Classify by likelihood</text>
+<text x="1635" y="106" font-size="12.4" text-anchor="middle" font-weight="400" fill="#555555">under the pushed disease models</text>
+<text x="1522" y="142" font-size="12.9" text-anchor="start" font-weight="400" fill="#1A1A1A">Class 1</text><text x="1748" y="142" font-size="12.9" text-anchor="end" font-weight="400" fill="#1A1A1A">0.24</text><rect x="1522" y="150" width="226" height="12" fill="#ECEFF4"/><rect x="1522" y="150" width="53.6" height="12" fill="#9FB3CC"/>
+<text x="1522" y="194" font-size="12.9" text-anchor="start" font-weight="400" fill="#1A1A1A">Class 2</text><text x="1748" y="194" font-size="12.9" text-anchor="end" font-weight="400" fill="#1A1A1A">0.36</text><rect x="1522" y="202" width="226" height="12" fill="#ECEFF4"/><rect x="1522" y="202" width="80.7" height="12" fill="#9FB3CC"/>
+<text x="1522" y="246" font-size="12.9" text-anchor="start" font-weight="400" fill="#1A1A1A">Class 3</text><text x="1748" y="246" font-size="12.9" text-anchor="end" font-weight="400" fill="#1A1A1A">0.41</text><rect x="1522" y="254" width="226" height="12" fill="#ECEFF4"/><rect x="1522" y="254" width="91.8" height="12" fill="#E69F00"/>
+<rect x="1522" y="308" width="226" height="40" rx="3" fill="#F9E3B8" stroke="#E69F00" stroke-width="1.2"/>
+<text x="1635" y="334" font-size="14.7" text-anchor="middle" font-weight="700" fill="#1A1A1A">predicted: class 3</text>
+<text x="1635" y="374" font-size="12.4" text-anchor="middle" font-weight="400" fill="#555555">probabilities of one real fig leaf under</text>
+<text x="1635" y="392" font-size="12.4" text-anchor="middle" font-weight="400" fill="#555555">the three pushed tomato models</text>
+<text x="1635" y="416" font-size="12.4" text-anchor="middle" font-weight="400" fill="#555555">no label of this leaf is used</text>
+<rect x="1500" y="500" width="270" height="420" rx="3" fill="#FFFFFF" stroke="#0072B2" stroke-width="1.2"/>
+<text x="1635" y="530" font-size="14.7" text-anchor="middle" font-weight="700" fill="#1A1A1A">Agreement check</text>
+<text x="1635" y="548" font-size="12.4" text-anchor="middle" font-weight="400" fill="#555555">same disease from two source crops,</text><text x="1635" y="565" font-size="12.4" text-anchor="middle" font-weight="400" fill="#555555">both pushed to the target</text>
+<image x="1550" y="566" width="170" height="142.3" href="assets/disc_hist.png"/>
+<text x="1635" y="728.2893772893773" font-size="13.8" text-anchor="middle" font-weight="400" fill="#1A1A1A" font-style="italic">a = 0.97  →  TV ≥ 0.93  (Wilson bound)</text>
+<text x="1635" y="748.2893772893773" font-size="11.5" text-anchor="middle" font-weight="400" fill="#555555">tomato vs potato early blight, 792 held-out images</text>
+<rect x="1522" y="782" width="108" height="86" rx="3" fill="#D5EEE6" stroke="#009E73" stroke-width="1.2"/>
+<use href="#i-circle-check" x="1557" y="790" width="34" height="34" style="color:#009E73"/><text x="1576" y="846" font-size="12.9" text-anchor="middle" font-weight="700" fill="#1A1A1A">answer</text><text x="1576" y="861" font-size="11.0" text-anchor="middle" font-weight="400" fill="#1A1A1A">bound small</text>
+<rect x="1640" y="782" width="108" height="86" rx="3" fill="#F9E3B8" stroke="#E69F00" stroke-width="2.2"/>
+<use href="#i-octagon-x" x="1675" y="790" width="34" height="34" style="color:#B87A00"/><text x="1694" y="846" font-size="12.9" text-anchor="middle" font-weight="700" fill="#1A1A1A">refuse</text><text x="1694" y="861" font-size="11.0" text-anchor="middle" font-weight="400" fill="#1A1A1A">bound large</text>
+<text x="1635" y="888" font-size="12.4" text-anchor="middle" font-weight="400" fill="#555555">this pair: refuse (bound 0.93)</text>
+<text x="1635" y="906" font-size="12.0" text-anchor="middle" font-weight="400" fill="#555555">large bound: the two sources disagree</text>
+<path d="M1467,400 H1484 V270 H1498" fill="none" stroke="#0072B2" stroke-width="1.5" marker-end="url(#a)"/>
+<path d="M1467,560 H1484 V700 H1498" fill="none" stroke="#0072B2" stroke-width="1.5" stroke-dasharray="5 3.5" marker-end="url(#a)"/>
+<rect x="30" y="948" width="16" height="16" fill="#009E73"/><text x="54" y="961" font-size="13.3" text-anchor="start" font-weight="400" fill="#1A1A1A">source crop (labelled)</text>
+<rect x="250" y="948" width="16" height="16" fill="#E69F00"/><text x="274" y="961" font-size="13.3" text-anchor="start" font-weight="400" fill="#1A1A1A">target crop (healthy images only)</text>
+<rect x="540" y="948" width="16" height="16" fill="#0072B2"/><text x="564" y="961" font-size="13.3" text-anchor="start" font-weight="400" fill="#1A1A1A">transport and decision</text>
+<path d="M760,956 H792" stroke="#009E73" stroke-width="2" stroke-dasharray="6 3.5"/><text x="800" y="961" font-size="13.3" text-anchor="start" font-weight="400" fill="#1A1A1A">pushed source disease model</text>
+<text x="1770" y="961" font-size="11.5" text-anchor="end" font-weight="400" fill="#555555">Photographs: PlantVillage, fig dataset. Real features; crop pair illustrative. Icons: Lucide (ISC). Palette: Okabe-Ito.</text>
+</svg></body></html>

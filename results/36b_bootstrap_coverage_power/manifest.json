@@ -1,0 +1,19 @@
+{
+  "module": "36b_bootstrap_coverage_power",
+  "clusters": [
+    7,
+    8,
+    12,
+    25,
+    50
+  ],
+  "sims": 2000,
+  "resamples": 1000,
+  "margin": 0.02,
+  "delta_alt": 0.03,
+  "between_sd": 0.0887,
+  "within_sd": 0.04635,
+  "replicates_per_cluster": 17,
+  "seed": 2026,
+  "seconds": 43.2
+}

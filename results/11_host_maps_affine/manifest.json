@@ -1,0 +1,23 @@
+{
+  "module": "11_host_maps_affine",
+  "projection_dimensions": 16,
+  "maps": 14,
+  "sources": [
+    "apple",
+    "blueberry",
+    "cherry_including_sour",
+    "corn_maize",
+    "pepper_bell",
+    "soybean",
+    "tomato"
+  ],
+  "targets": [
+    "fig",
+    "rice"
+  ],
+  "min_train": 200,
+  "min_validation": 50,
+  "shrinkage": 0.1,
+  "seed": 2026,
+  "seconds": 6.8
+}

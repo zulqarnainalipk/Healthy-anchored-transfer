@@ -1,0 +1,76 @@
+unit,source,target,disease,method,independent,module53,difference
+1,apple,bean,rust,NA,0.6614,0.6616,-0.0002
+1,apple,bean,rust,MC,0.7491,0.7496,-0.0005
+1,apple,bean,rust,STD,0.7041,0.7041,-0.0
+1,apple,bean,rust,CORAL,0.78,0.7795,0.0005
+1,apple,bean,rust,HATC,0.7709,0.7708,0.0001
+5,apple,garlic,rust,NA,0.5104,0.5104,-0.0
+5,apple,garlic,rust,MC,0.6796,0.6798,-0.0002
+5,apple,garlic,rust,STD,0.6438,0.644,-0.0002
+5,apple,garlic,rust,CORAL,0.843,0.8427,0.0003
+5,apple,garlic,rust,HATC,0.8529,0.8529,-0.0
+18,coffee,blueberry,rust,NA,0.769,0.769,-0.0
+18,coffee,blueberry,rust,MC,0.8499,0.8496,0.0003
+18,coffee,blueberry,rust,STD,0.8573,0.8573,-0.0
+18,coffee,blueberry,rust,CORAL,0.8705,0.8705,0.0
+18,coffee,blueberry,rust,HATC,0.8642,0.8642,0.0
+23,corn,blueberry,rust,NA,0.5335,0.5335,0.0
+23,corn,blueberry,rust,MC,0.5823,0.5832,-0.0009
+23,corn,blueberry,rust,STD,0.6241,0.6241,-0.0
+23,corn,blueberry,rust,CORAL,0.8142,0.8139,0.0003
+23,corn,blueberry,rust,HATC,0.811,0.8107,0.0003
+24,corn,coffee,rust,NA,0.5223,0.5221,0.0002
+24,corn,coffee,rust,MC,0.6365,0.6369,-0.0004
+24,corn,coffee,rust,STD,0.7034,0.7037,-0.0003
+24,corn,coffee,rust,CORAL,0.8874,0.8874,-0.0
+24,corn,coffee,rust,HATC,0.8866,0.8857,0.0009
+42,lettuce,tomato,mosaic virus,NA,0.5697,0.5694,0.0003
+42,lettuce,tomato,mosaic virus,MC,0.5779,0.5783,-0.0004
+42,lettuce,tomato,mosaic virus,STD,0.5526,0.5521,0.0005
+42,lettuce,tomato,mosaic virus,CORAL,0.6422,0.6415,0.0007
+42,lettuce,tomato,mosaic virus,HATC,0.6324,0.6315,0.0009
+43,tobacco,apple,mosaic virus,NA,0.5598,0.5595,0.0003
+43,tobacco,apple,mosaic virus,MC,0.6118,0.6109,0.0009
+43,tobacco,apple,mosaic virus,STD,0.6078,0.6061,0.0017
+43,tobacco,apple,mosaic virus,CORAL,0.6874,0.6872,0.0002
+43,tobacco,apple,mosaic virus,HATC,0.6877,0.6861,0.0016
+45,tobacco,lettuce,mosaic virus,NA,0.6321,0.6321,0.0
+45,tobacco,lettuce,mosaic virus,MC,0.6675,0.6682,-0.0007
+45,tobacco,lettuce,mosaic virus,STD,0.6387,0.639,-0.0003
+45,tobacco,lettuce,mosaic virus,CORAL,0.6463,0.6459,0.0004
+45,tobacco,lettuce,mosaic virus,HATC,0.6528,0.6526,0.0002
+50,tomato,tobacco,mosaic virus,NA,0.5937,0.594,-0.0003
+50,tomato,tobacco,mosaic virus,MC,0.5752,0.5773,-0.0021
+50,tomato,tobacco,mosaic virus,STD,0.5733,0.5744,-0.0011
+50,tomato,tobacco,mosaic virus,CORAL,0.5711,0.5714,-0.0003
+50,tomato,tobacco,mosaic virus,HATC,0.5852,0.5852,-0.0
+59,basil,lettuce,downy mildew,NA,0.7242,0.7242,0.0
+59,basil,lettuce,downy mildew,MC,0.8706,0.8706,-0.0
+59,basil,lettuce,downy mildew,STD,0.8817,0.8817,-0.0
+59,basil,lettuce,downy mildew,CORAL,0.9318,0.9321,-0.0003
+59,basil,lettuce,downy mildew,HATC,0.9263,0.9263,-0.0
+64,grape,broccoli,downy mildew,NA,0.6956,0.695,0.0006
+64,grape,broccoli,downy mildew,MC,0.8117,0.8111,0.0006
+64,grape,broccoli,downy mildew,STD,0.6648,0.6648,-0.0
+64,grape,broccoli,downy mildew,CORAL,0.8934,0.8928,0.0006
+64,grape,broccoli,downy mildew,HATC,0.8643,0.8643,-0.0
+66,lettuce,basil,downy mildew,NA,0.6537,0.6537,0.0
+66,lettuce,basil,downy mildew,MC,0.7868,0.7863,0.0005
+66,lettuce,basil,downy mildew,STD,0.779,0.7791,-0.0001
+66,lettuce,basil,downy mildew,CORAL,0.8121,0.8122,-0.0001
+66,lettuce,basil,downy mildew,HATC,0.8077,0.8077,0.0
+67,lettuce,broccoli,downy mildew,NA,0.8763,0.8763,-0.0
+67,lettuce,broccoli,downy mildew,MC,0.8996,0.8989,0.0007
+67,lettuce,broccoli,downy mildew,STD,0.8867,0.8867,0.0
+67,lettuce,broccoli,downy mildew,CORAL,0.8955,0.8955,0.0
+67,lettuce,broccoli,downy mildew,HATC,0.8849,0.8849,0.0
+71,potato,celery,early blight,NA,0.7586,0.7586,-0.0
+71,potato,celery,early blight,MC,0.867,0.867,0.0
+71,potato,celery,early blight,STD,0.8782,0.8782,0.0
+71,potato,celery,early blight,CORAL,0.9646,0.9646,0.0
+71,potato,celery,early blight,HATC,0.9595,0.9595,-0.0
+75,potato,tomato,late blight,NA,0.7828,0.7824,0.0004
+75,potato,tomato,late blight,MC,0.7489,0.7492,-0.0003
+75,potato,tomato,late blight,STD,0.6359,0.6361,-0.0002
+75,potato,tomato,late blight,CORAL,0.8915,0.8915,-0.0
+75,potato,tomato,late blight,HATC,0.8604,0.8606,-0.0002

@@ -1,0 +1,7 @@
+proxy,outcome,units,spearman,loo_min,loo_max,mean_outcome_all,mean_outcome_kept_two_thirds
+bw_total,ba_HATC,80,0.23,0.164,0.271,0.7871,0.7633
+bw_total,gain_HATC_minus_MC,80,0.475,0.429,0.533,0.0711,0.056
+s25_s75_disagreement,ba_HATC,80,-0.135,-0.225,-0.085,0.7871,0.7918
+s25_s75_disagreement,gain_HATC_minus_MC,80,0.612,0.573,0.651,0.0711,0.0423
+healthy_false_alarm,ba_HATC,80,-0.423,-0.483,-0.368,0.7871,0.819
+healthy_false_alarm,gain_HATC_minus_MC,80,-0.32,-0.374,-0.264,0.0711,0.0918

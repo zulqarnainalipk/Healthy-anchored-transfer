@@ -1,0 +1,15 @@
+source_crop,target,frechet_error,target_baseline_half_split,source_train,target_train,target_validation
+apple,fig,2.1169,0.875,1350,357,70
+blueberry,fig,1.9419,0.875,1187,357,70
+cherry_including_sour,fig,2.4758,0.875,696,357,70
+corn_maize,fig,2.847,0.875,933,357,70
+pepper_bell,fig,1.8207,0.875,1175,357,70
+soybean,fig,1.7724,0.875,4083,357,70
+tomato,fig,1.6556,0.875,1270,357,70
+apple,rice,4.2597,1.213,1350,599,82
+blueberry,rice,4.1001,1.213,1187,599,82
+cherry_including_sour,rice,4.9181,1.213,696,599,82
+corn_maize,rice,5.4684,1.213,933,599,82
+pepper_bell,rice,4.9796,1.213,1175,599,82
+soybean,rice,3.1761,1.213,4083,599,82
+tomato,rice,4.2138,1.213,1270,599,82

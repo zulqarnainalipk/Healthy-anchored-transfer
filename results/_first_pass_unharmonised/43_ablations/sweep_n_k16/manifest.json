@@ -1,0 +1,24 @@
+{
+  "module": "43_ablation_engine",
+  "tag": "sweep_n_k16",
+  "projection": "results\\08_projection\\projection_k16.npz",
+  "dimensions": 16,
+  "healthy_n": [
+    10,
+    25,
+    50,
+    100,
+    200,
+    400
+  ],
+  "worlds": [
+    "a",
+    "c50",
+    "e",
+    "f"
+  ],
+  "reps": 100,
+  "operator_scale": 2.0,
+  "world_seed": 2026,
+  "seconds": 196.9
+}

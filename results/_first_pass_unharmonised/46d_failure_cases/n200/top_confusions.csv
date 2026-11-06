@@ -1,0 +1,41 @@
+world,method,crop,true,predicted,count
+a,HATC,potato,Early_blight,potato early blight,147
+a,HATC,peach,peach brown rot,peach leaf curl,142
+a,HATC,apple,apple scab,apple rust,139
+a,HATC,apple,apple mosaic virus,apple rust,134
+a,HATC,potato,potato early blight,potato late blight,131
+a,HATC,grape,Black_rot,Esca_Black_Measles,121
+a,HATC,corn_maize,Cercospora_leaf_spot Gray_leaf_spot,Northern_Leaf_Blight,117
+a,HATC,grape,grape downy mildew,grape leaf spot,109
+a,HATC,apple,apple mosaic virus,apple scab,103
+a,HATC,soybean,soybean downy mildew,bean rust,100
+a,S50,apple,apple scab,apple rust,156
+a,S50,corn_maize,Northern_Leaf_Blight,Cercospora_leaf_spot Gray_leaf_spot,156
+a,S50,peach,peach brown rot,peach leaf curl,145
+a,S50,soybean,soybean bacterial blight,bean rust,121
+a,S50,tomato,tomato early blight,tomato late blight,113
+a,S50,apple,apple mosaic virus,apple rust,110
+a,S50,soybean,soybean frog eye leaf spot,bean rust,107
+a,S50,grape,grape leaf spot,grape black rot,106
+a,S50,soybean,soybean downy mildew,bean rust,105
+a,S50,grape,Black_rot,Esca_Black_Measles,92
+e,HATC,corn_maize,Common_rust_,Northern_Leaf_Blight,250
+e,HATC,potato,potato late blight,potato early blight,250
+e,HATC,potato,Early_blight,potato early blight,248
+e,HATC,peach,peach brown rot,peach leaf curl,244
+e,HATC,corn_maize,Cercospora_leaf_spot Gray_leaf_spot,Northern_Leaf_Blight,242
+e,HATC,potato,Late_blight,potato early blight,239
+e,HATC,apple,Cedar_apple_rust,Apple_scab,217
+e,HATC,apple,apple mosaic virus,apple scab,214
+e,HATC,grape,grape leaf spot,grape black rot,199
+e,HATC,tomato,Leaf_Mold,Early_blight,196
+e,S50,corn_maize,Common_rust_,Northern_Leaf_Blight,250
+e,S50,grape,Leaf_blight_Isariopsis_Leaf_Spot,grape black rot,250
+e,S50,potato,Early_blight,potato early blight,250
+e,S50,potato,potato late blight,potato early blight,250
+e,S50,soybean,soybean bacterial blight,soybean frog eye leaf spot,250
+e,S50,grape,Esca_Black_Measles,grape black rot,249
+e,S50,potato,Late_blight,potato early blight,249
+e,S50,soybean,soybean downy mildew,soybean frog eye leaf spot,245
+e,S50,peach,peach brown rot,peach leaf curl,238
+e,S50,grape,Black_rot,grape black rot,234

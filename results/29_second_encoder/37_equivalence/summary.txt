@@ -1,0 +1,5 @@
+Primary contrast: HATC - best simple baseline
+cells: 20
+  different (HATC worse): 11
+  inconclusive: 9
+all cells exploratory (fewer than 8 clusters): True

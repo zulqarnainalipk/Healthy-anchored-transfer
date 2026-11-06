@@ -1,0 +1,20 @@
+[18:11:32] step 1: loading raw training-split features
+[18:11:45]   51358 rows, 40 crops
+[18:11:48]   crops with healthy images 12; usable targets 8: [np.str_('apple'), np.str_('corn_maize'), np.str_('grape'), np.str_('peach'), np.str_('potato'), np.str_('soybean'), np.str_('strawberry'), np.str_('tomato')]
+[18:12:02]   fitted pca without crop apple (14 s)
+[18:14:39]   fitted lda without crop apple (157 s)
+[18:14:48]   fitted pca without crop corn_maize (9 s)
+[18:17:42]   fitted lda without crop corn_maize (174 s)
+[18:17:54]   fitted pca without crop grape (12 s)
+[18:20:36]   fitted lda without crop grape (161 s)
+[18:20:44]   fitted pca without crop peach (9 s)
+[18:23:20]   fitted lda without crop peach (155 s)
+[18:23:29]   fitted pca without crop potato (9 s)
+[18:26:06]   fitted lda without crop potato (157 s)
+[18:26:15]   fitted pca without crop soybean (8 s)
+[18:28:41]   fitted lda without crop soybean (147 s)
+[18:28:53]   fitted pca without crop strawberry (12 s)
+[18:31:59]   fitted lda without crop strawberry (186 s)
+[18:32:07]   fitted pca without crop tomato (7 s)
+[18:34:03]   fitted lda without crop tomato (116 s)
+[18:34:03] done

@@ -1,0 +1,15 @@
+target_crop,disease,target_images,other_source_crops,source_crops,target_healthy,affine_ok,brenier_ok,qualifies_U1
+fig,anthracnose,448,0,,513,1,1,0
+fig,cercospora leaf spot,525,0,,513,1,1,0
+fig,mosaic,551,0,,513,1,1,0
+rice,bacterial leaf blight,785,0,,753,1,1,0
+rice,brown spot,761,0,,753,1,1,0
+rice,leaf blast,521,0,,753,1,1,0
+rice,leaf scald,514,0,,753,1,1,0
+rice,narrow brown spot,767,0,,753,1,1,0
+rice,neck blast,677,0,,753,1,1,0
+rice,rice blast,83,0,,753,1,1,0
+rice,rice sheath blight,76,0,,753,1,1,0
+rice,rice hispa,770,0,,753,1,1,0
+rice,sheath blight,608,0,,753,1,1,0
+rice,tungro,556,0,,753,1,1,0

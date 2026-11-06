@@ -1,0 +1,4 @@
+n,condition_threshold,spread_threshold,quantile
+50,42.909,21.273,95
+100,35.747,22.05,95
+200,35.158,20.079,95

@@ -1,0 +1,10 @@
+tier,contrast,units,target_crops,source_crops,mean_diff,ci90_low,ci90_high,outcome,status
+2,HATC minus MC,56,20,14,0.0606,0.0258,0.1034,different,ok
+2,CORAL minus MC,56,20,14,0.0651,0.0292,0.1099,different,ok
+2,S25 minus MC,56,20,14,0.0304,0.0193,0.0468,inconclusive,ok
+2,S50 minus MC,56,20,14,0.0512,0.0326,0.0763,different,ok
+2,S75 minus MC,56,20,14,0.0635,0.0375,0.0973,different,ok
+2,OC minus MC,56,20,14,0.0601,0.0205,0.1108,different,ok
+2,probe5 minus MC,56,20,14,0.1133,0.0716,0.1629,different,ok
+2,probe10 minus MC,56,20,14,0.1456,0.1031,0.1962,different,ok
+2,probe25 minus MC,42,15,11,0.1785,0.1373,0.2237,different,ok

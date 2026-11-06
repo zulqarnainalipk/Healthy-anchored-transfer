@@ -1,0 +1,11 @@
+{
+  "module": "42_d4_sequential",
+  "tau": 0.0043,
+  "tau_quantile": 95,
+  "null_reps": 88,
+  "steps": 8,
+  "healthy_step": 25,
+  "window": 200,
+  "reps": 60,
+  "seconds": 625.6
+}

@@ -1,0 +1,15 @@
+﻿[08:21:28] step 1/3: loading source samples (same grouping as module 16)
+[08:21:41]   90 groups, 12 crops with healthy samples
+[08:21:41] step 2/3: running worlds x cells x replicates
+[08:21:58]   world a done (1/10)
+[08:22:12]   world a2 done (2/10)
+[08:22:26]   world b done (3/10)
+[08:22:38]   world b2 done (4/10)
+[08:22:51]   world c25 done (5/10)
+[08:23:04]   world c50 done (6/10)
+[08:23:18]   world c100 done (7/10)
+[08:23:33]   world d done (8/10)
+[08:23:46]   world e done (9/10)
+[08:23:57]   world f done (10/10)
+[08:23:57] step 3/3: summary and paired differences
+[08:23:57] done in 149.9 s

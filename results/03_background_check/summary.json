@@ -1,0 +1,60 @@
+{
+  "peach_leaf_damage": {
+    "per_class": {
+      "abiotic_stress": {
+        "n": 24,
+        "black": 22,
+        "white": 0,
+        "other": 2,
+        "mean_brightness": 11.6
+      },
+      "chewing_insect": {
+        "n": 7,
+        "black": 6,
+        "white": 0,
+        "other": 1,
+        "mean_brightness": 5.94
+      },
+      "healthy": {
+        "n": 107,
+        "black": 99,
+        "white": 0,
+        "other": 8,
+        "mean_brightness": 11.43
+      },
+      "mechanical_stress": {
+        "n": 44,
+        "black": 40,
+        "white": 0,
+        "other": 4,
+        "mean_brightness": 9.85
+      }
+    },
+    "shortcut_healthy_vs_rest": {
+      "shortcut_accuracy": 0.5385,
+      "majority_rate": 0.5879
+    }
+  },
+  "chili_yellow_leaf": {
+    "per_class": {
+      "healthy": {
+        "n": 3283,
+        "black": 1178,
+        "white": 0,
+        "other": 2105,
+        "mean_brightness": 52.44
+      },
+      "yellow_leaf": {
+        "n": 3283,
+        "black": 0,
+        "white": 0,
+        "other": 3283,
+        "mean_brightness": 166.77
+      }
+    },
+    "shortcut_healthy_vs_rest": {
+      "shortcut_accuracy": 0.9767,
+      "majority_rate": 0.5
+    }
+  }
+}

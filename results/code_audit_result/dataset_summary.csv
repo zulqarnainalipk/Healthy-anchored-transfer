@@ -1,0 +1,7 @@
+dataset,files,images,gigabytes,class_folders,augmented_path_images,has_licence_or_readme
+chili_yellow_leaf,6566,6566,0.16,1,0,0
+fig_sartak_sfld,10189,10185,4.172,4,8148,1
+peach_leaf_damage,184,182,0.01,4,0,1
+plantseg_v6,22920,22916,1.778,3,0,0
+plantvillage_color,54370,54306,0.905,39,0,1
+rice_leaf_disease,6712,6712,2.143,10,0,0

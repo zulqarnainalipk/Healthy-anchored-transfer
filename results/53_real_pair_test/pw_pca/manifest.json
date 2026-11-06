@@ -1,0 +1,12 @@
+{
+  "module": "53_real_pair_test",
+  "dataset": "plantwild",
+  "projection": "pca",
+  "units": 84,
+  "reps": 20,
+  "seed_offset": 0,
+  "control": "none",
+  "exclude_file": "",
+  "map_max": 200,
+  "seconds": 2323.1
+}

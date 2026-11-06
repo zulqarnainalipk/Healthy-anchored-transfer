@@ -1,0 +1,13 @@
+target_crop,disease,target_images,other_source_crops,source_crops,target_healthy,affine_ok,brenier_ok,qualifies_U1
+fig,anthracnose,448,5,banana; blueberry; celery; peach; strawberry,513,1,1,1
+fig,cercospora leaf spot,525,1,eggplant,513,1,1,0
+fig,mosaic,551,1,soybean,513,1,1,0
+rice,bacterial leaf blight,785,0,,753,1,1,0
+rice,brown spot,761,2,soybean; tobacco,753,1,1,1
+rice,leaf blast,521,0,,753,1,1,0
+rice,leaf scald,514,0,,753,1,1,0
+rice,narrow brown spot,767,0,,753,1,1,0
+rice,neck blast,677,0,,753,1,1,0
+rice,hispa,770,0,,753,1,1,0
+rice,sheath blight,608,1,ginger,753,1,1,0
+rice,tungro,556,0,,753,1,1,0

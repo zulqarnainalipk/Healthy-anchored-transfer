@@ -1,0 +1,7 @@
+dataset,images,names_with_digits,top_patterns
+chili_yellow_leaf,6566,6566,Health_Leaf (#) (3283); Yellow_Leaf (#) (3283)
+fig_sartak_sfld,10185,10185,Mosaic_#_Brightness (551); Mosaic_#_Contrast (551); Mosaic_#_HorizontalFlip (551)
+peach_leaf_damage,182,182,open_field-local_#_ann# (79); local_field-healthy_#_ann# (45); local_field-mechanical_stress_#_ann# (35)
+plantseg_v6,22916,22916,citrus_canker_# (564); apple_scab_google_# (366); corn_smut_google_# (364)
+plantvillage_color,54306,54305,RS_Rust # (1192); email (1); #d#d-d#-#c#-abd#-#b#cb#a#fd___JR_FrgE.S # (1)
+rice_leaf_disease,6712,6710,bacterial_leaf_blight# (781); rice_hispa# (770); narrow_brown_spot# (766)

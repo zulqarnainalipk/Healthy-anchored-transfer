@@ -1,0 +1,41 @@
+{
+  "module": "16_world_generator",
+  "worlds": [
+    "a",
+    "a2",
+    "b",
+    "b2",
+    "c25",
+    "c50",
+    "c100",
+    "d",
+    "e",
+    "f"
+  ],
+  "replicates": 200,
+  "healthy_n": [
+    50,
+    200
+  ],
+  "disease_n": [
+    10,
+    50
+  ],
+  "seed": 2026,
+  "crops_with_healthy": [
+    "apple",
+    "blueberry",
+    "cherry_including_sour",
+    "corn_maize",
+    "grape",
+    "peach",
+    "pepper_bell",
+    "potato",
+    "raspberry",
+    "soybean",
+    "strawberry",
+    "tomato"
+  ],
+  "seconds": 20.4,
+  "note": "minimum-detectable-difference and power are computed in module 36b"
+}

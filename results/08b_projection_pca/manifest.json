@@ -1,0 +1,7 @@
+{
+  "module": "08b_projection_pca",
+  "train_rows": 51358,
+  "components": 16,
+  "explained_variance_share": 0.6296,
+  "seconds": 172.1
+}

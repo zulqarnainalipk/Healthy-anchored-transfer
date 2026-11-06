@@ -1,0 +1,27 @@
+{
+  "module": "13_push_forward",
+  "projection_dimensions": 16,
+  "maps_used": [
+    "apple__fig",
+    "apple__rice",
+    "blueberry__fig",
+    "blueberry__rice",
+    "cherry_including_sour__fig",
+    "cherry_including_sour__rice",
+    "corn_maize__fig",
+    "corn_maize__rice",
+    "pepper_bell__fig",
+    "pepper_bell__rice",
+    "soybean__fig",
+    "soybean__rice",
+    "tomato__fig",
+    "tomato__rice"
+  ],
+  "pushed_models": 68,
+  "source_disease_models": 34,
+  "min_train": 30,
+  "shrinkage": 0.1,
+  "seed": 2026,
+  "seconds": 11.3,
+  "note": "pickle written by this run; the map quality is in module 11"
+}

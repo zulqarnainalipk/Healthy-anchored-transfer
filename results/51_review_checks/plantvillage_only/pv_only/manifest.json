@@ -1,0 +1,27 @@
+{
+  "module": "43_ablation_engine",
+  "tag": "pv_only",
+  "projection": "results\\08_projection\\projection_k16.npz",
+  "dimensions": 16,
+  "healthy_n": [
+    50,
+    200
+  ],
+  "worlds": [
+    "a",
+    "a2",
+    "b",
+    "b2",
+    "c25",
+    "c50",
+    "c100",
+    "d",
+    "e",
+    "f"
+  ],
+  "reps": 100,
+  "operator_scale": 2.0,
+  "world_seed": 2026,
+  "label_noise": 0.0,
+  "seconds": 182.7
+}

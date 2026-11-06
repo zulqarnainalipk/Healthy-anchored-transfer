@@ -1,0 +1,19 @@
+{
+  "module": "12_host_maps_brenier",
+  "healthy_n": [
+    200,
+    400
+  ],
+  "worlds": [
+    "a",
+    "c50",
+    "e",
+    "f"
+  ],
+  "reps": 58,
+  "knn": 10,
+  "bootstrap_maps": 10,
+  "operator_scale": 2.0,
+  "world_seed": 2026,
+  "seconds": 114.3
+}

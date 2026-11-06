@@ -1,0 +1,1 @@
+candidates: 200; pixel copies (correlation >= 0.9): 0; highest pixel correlation: 0.8041

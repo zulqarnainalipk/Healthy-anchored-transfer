@@ -1,0 +1,43 @@
+[05:27:03] step 1/4: reading the feature index
+[05:27:04]   17328 images
+[05:27:04] step 2/4: describing the image frames
+[05:30:05]     2000/17328 images, finish about 05:53
+[05:34:18]     4000/17328 images, finish about 05:58
+[05:38:10]     6000/17328 images, finish about 05:59
+[05:41:09]     8000/17328 images, finish about 05:57
+[05:44:18]     10000/17328 images, finish about 05:56
+[05:48:00]     12000/17328 images, finish about 05:57
+[05:51:21]     14000/17328 images, finish about 05:57
+[05:54:41]     16000/17328 images, finish about 05:56
+[05:56:59]   unreadable 0
+[05:56:59] step 3/4: healthy versus diseased from the frame alone, per crop (5-fold cross-validated AUROC)
+[05:57:05]     apple: frame 0.782, dinov2 0.962
+[05:57:07]     banana: frame 0.834, dinov2 0.99
+[05:57:09]     basil: frame 0.797, dinov2 0.988
+[05:57:11]     bean: frame 0.62, dinov2 0.948
+[05:57:13]     bell pepper: frame 0.67, dinov2 0.94
+[05:57:15]     blueberry: frame 0.724, dinov2 0.979
+[05:57:16]     broccoli: frame 0.695, dinov2 0.968
+[05:57:18]     cabbage: frame 0.75, dinov2 0.993
+[05:57:20]     cauliflower: frame 0.619, dinov2 0.971
+[05:57:21]     celery: frame 0.749, dinov2 0.995
+[05:57:23]     cherry: frame 0.752, dinov2 0.983
+[05:57:24]     coffee: frame 0.756, dinov2 0.99
+[05:57:27]     corn: frame 0.798, dinov2 0.991
+[05:57:29]     cucumber: frame 0.733, dinov2 0.979
+[05:57:31]     eggplant: frame 0.694, dinov2 0.986
+[05:57:33]     garlic: frame 0.719, dinov2 0.966
+[05:57:34]     ginger: frame 0.709, dinov2 0.954
+[05:57:36]     grape: frame 0.784, dinov2 0.996
+[05:57:38]     lettuce: frame 0.747, dinov2 0.978
+[05:57:39]     maple: frame 0.559, dinov2 0.998
+[05:57:41]     peach: frame 0.623, dinov2 0.995
+[05:57:42]     plum: frame 0.686, dinov2 0.96
+[05:57:44]     potato: frame 0.691, dinov2 0.99
+[05:57:46]     rice: frame 0.742, dinov2 0.965
+[05:57:48]     squash: frame 0.732, dinov2 0.934
+[05:57:50]     strawberry: frame 0.701, dinov2 0.987
+[05:57:51]     tobacco: frame 0.626, dinov2 0.907
+[05:57:56]     tomato: frame 0.703, dinov2 0.974
+[05:57:56] step 4/4: manifest
+[05:57:56] done in 1853 s

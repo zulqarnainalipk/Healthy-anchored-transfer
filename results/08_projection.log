@@ -1,0 +1,10 @@
+[06:20:03] step 1/4: loading source features and index
+[06:20:09]   train (51358, 1536), validation (6677, 1536), classes 137
+[06:20:09] step 2/4: fitting shrinkage LDA on training split (sources only)
+[06:22:20]   kept 16 discriminant directions (limit 16)
+[06:22:20] step 3/4: validation accuracy by dimension
+[06:22:22]   k=4: validation accuracy 0.5073 on 6677 rows
+[06:22:23]   k=8: validation accuracy 0.7232 on 6677 rows
+[06:22:25]   k=16: validation accuracy 0.8049 on 6677 rows
+[06:22:25] step 4/4: writing validation table and manifest
+[06:22:25] done in 142.3 s

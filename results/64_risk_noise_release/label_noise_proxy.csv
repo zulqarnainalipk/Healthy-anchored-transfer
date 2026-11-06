@@ -1,0 +1,14 @@
+group,images,mean_other_role_share,images_majority_other_role
+rust,1106,0.055,0.023
+mosaic virus,800,0.149,0.059
+powdery mildew,560,0.157,0.107
+downy mildew,618,0.127,0.089
+early blight,507,0.05,0.018
+late blight,477,0.065,0.025
+black rot,374,0.055,0.011
+anthracnose,141,0.215,0.113
+sheath blight,294,0.079,0.024
+alternaria leaf spot,165,0.254,0.255
+leaf spot,1569,0.106,0.078
+leaf blight,319,0.08,0.038
+healthy (all crops),7570,0.127,0.076

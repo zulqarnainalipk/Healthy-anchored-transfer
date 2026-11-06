@@ -1,0 +1,5 @@
+target_dataset,images,at_or_above_0.9,at_or_above_0.93,at_or_above_0.95,at_or_above_0.97,at_or_above_0.98,at_or_above_0.99
+rice_leaf_disease,6712,0,0,0,0,0,0
+fig_sartak_sfld,2037,0,0,0,0,0,0
+chili_yellow_leaf,6566,0,0,0,0,0,0
+peach_leaf_damage,182,0,0,0,0,0,0
