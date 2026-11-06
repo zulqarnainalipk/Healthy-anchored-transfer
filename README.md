@@ -19,7 +19,7 @@ Email: zulqar445ali@gmail.com. ORCID: [0009-0009-0281-882X](https://orcid.org/00
 healthy-anchored-transfer/
 ├── README.md                     this file
 ├── LICENSE.proposed              proposed licence text; the licence is pending and this file is not in force
-├── CITATION.cff                  citation metadata (author, ORCID; DOI, release date, licence and repository URL still open)
+├── CITATION.cff                  citation metadata (author, ORCID; DOI, release date and licence still open)
 ├── requirements.txt              base environment, pinned
 ├── requirements-gpu.txt          extra packages for the encoder (feature extraction) modules
 ├── .gitignore                    large-file and privacy policy
@@ -91,11 +91,11 @@ Each module is one script with one purpose and one document; a failed module is 
 
 Dataset audit, the real-pair test on PlantWild (modules 08b, 09, 10, 53 to 59, with post-hoc modules 60 to 64) and the synthetic benchmark are complete (see the status table in `docs/implementation_checklist.md`). Not done and stated as such: modules 14, 15, 15b, 21 (beyond 20), 22, 24, 25, 28 and 07. Real-pair modules 32 and 33 (rice and fig as targets) are not feasible because the pair gate is not met on the six crop datasets; the real-pair question is answered with PlantWild instead (module 53).
 
-Open decisions for the owner before release: the licence (see above), the archive host and its DOI, the repository URL, and the dataset-licence points in `docs/data_sources.md`.
+Open decisions for the owner before release: the licence (see above), the archive host and its DOI, and the dataset-licence points in `docs/data_sources.md`.
 
 ## Citation
 
-Please cite the paper and the archived release. Machine-readable metadata is in `CITATION.cff`. The DOI, release date, journal and repository URL are not yet assigned and are deliberately left open.
+Please cite the paper and the archived release. Machine-readable metadata is in `CITATION.cff`. The DOI, release date and journal are not yet assigned and are deliberately left open.
 
 ```bibtex
 @software{ali2026healthyanchored,
@@ -103,7 +103,8 @@ Please cite the paper and the archived release. Machine-readable metadata is in 
   title   = {healthy-anchored-transfer: code, results and registered analysis rules for a benchmark of healthy-anchored alignment of plant-disease models across crops},
   year    = {2026},
   version = {0.1.0},
-  note    = {Pre-release. DOI and repository URL to be added.}
+  url     = {https://github.com/zulqarnainalipk/Healthy-anchored-transfer},
+  note    = {Pre-release. DOI to be added.}
 }
 
 @unpublished{ali2026healthyleaves,
